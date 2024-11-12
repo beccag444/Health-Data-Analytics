@@ -1,0 +1,117 @@
+---
+title: "Linear Regression - Predicting Individual Medical Costs Billed by Health Insurance"
+author: "Name:Becca Godfrey"
+subtitle: "Date: April 29, 2024"
+output: html_document
+---
+
+## Introduction
+"The United States’ national health expenditure (NHE) grew 5.8% to $3.2 trillion in 2015 (i.e., $9,990 per person), which accounted for 17.8% of the nation’s gross domestic product (GDP). In seeking to control these unsustainable increases in healthcare costs, it is imperative that healthcare organizations can predict the likely future costs of individuals, so that care management resources can be efficiently targeted to those individuals at highest risk of incurring significant costs. Key stakeholders in these efforts to manage healthcare costs include health insurers, employers, society, and increasingly healthcare delivery organizations due to the transition from fee-for-service payment models to value-based payment models. For any given individual, insurers generally have the most comprehensive information on healthcare costs as they pay for care delivered across various healthcare delivery organizations.
+
+Predicting healthcare costs for individuals using accurate prediction models is important for various stakeholders beyond health insurers, and for various purposes. For health insurers and increasingly healthcare delivery systems, accurate forecasts of likely costs can help with general business planning in addition to prioritizing the allocation of scarce care management resources. Moreover, for patients, knowing in advance their likely expenditures for the next year could potentially allow them to choose insurance plans with appropriate deductibles and premiums."
+
+Excerpt from https://www-ncbi-nlm-nih-gov.proxy-um.researchport.umd.edu/pmc/articles/PMC5977561/
+
+## Exploratory Data Analysis
+The insurance dataset comprises 1338 observations and 7 variables. Among these variables, we have a mix of categorical and continuous data types. For categorical variables, the percentage for the category with the highest prevalence is reported. Regarding sex, the dataset is almost evenly split, with females representing 49.48% and males representing 50.52% of the sample. For the number of children covered by health insurance, the majority of individuals (42.90%) have no children. Regarding smoking status, the data shows that 79.52% of individuals are nonsmokers, while 20.48% are smokers. Finally, examining residential regions, the Southeast region stands out with the highest representation at 27.20%.
+
+For continuous variables, the mean and standard deviation are used to summarize the data distribution. The mean age of the individuals in the dataset is 39.21 years, with a standard deviation of 14.05 years. For BMI, the mean value is 30.66, with a standard deviation of 6.10. Lastly, individual medical costs billed by health insurance have a mean value of \$13270.42, with a standard deviation of \$12110.01.
+
+```{r warning=FALSE, message=FALSE, results="hide", include=FALSE}
+# Importing the data
+insurance <- read.csv("insurance.csv")
+
+# Finding the number of observations
+n_obs <- nrow(insurance)
+
+# Finding the number of variables
+n_vars <- ncol(insurance)
+
+# Categorical variables
+sex_percentage <- prop.table(table(insurance$sex)) * 100
+sex_highest_percentage <- max(sex_percentage)
+children_percentage <- prop.table(table(insurance$children)) * 100
+children_highest_percentage <- max(children_percentage)
+smoker_percentage <- prop.table(table(insurance$smoker)) * 100
+smoker_highest_percentage <- max(smoker_percentage)
+region_percentage <- prop.table(table(insurance$region)) * 100
+region_highest_percentage <- max(region_percentage)
+
+# Continuous variables
+age_mean <- mean(insurance$age)
+age_sd <- sd(insurance$age)
+bmi_mean <- mean(insurance$bmi)
+bmi_sd <- sd(insurance$bmi)
+charges_mean <- mean(insurance$charges)
+charges_sd <- sd(insurance$charges)
+```
+
+## Data Visualization
+The boxplots illustrate the distribution of medical charges across different categorical variables. In Figure 1, which displays charges by gender, there seems to be minimal variation in charges between males and female, with a slightly wider spread for males than females. However, Figure 3 reveals a significant difference in charges between smokers and nonsmokers, with smokers generally incurring much higher medical costs. Additionally, Figure 4 demonstrates some variability in charges across different regions, although the differences are not as pronounced as those seen with smoking status.
+
+Figure 5 depicts the relationship between age and medical charges. It shows a clear positive association, indicating that as individuals age, their medical costs tend to increase. Similarly, Figure 6 demonstrates a positive correlation between body mass and medical charges. Individuals with higher body mass tend to have higher medical costs, suggesting that obesity may be associated with increased healthcare expenses.
+```{r warning=FALSE, message=FALSE, echo=FALSE}
+# Boxplots for categorical variables
+par(mfrow=c(2,2))
+boxplot(charges ~ sex, data = insurance, main = "Figure 1: Charges by Gender", xlab = "Gender", ylab = "Charges")
+boxplot(charges ~ children, data = insurance, main = "Figure 2: Charges by Number of Children", xlab = "Number of Children", ylab = "Charges")
+boxplot(charges ~ smoker, data = insurance, main = "Figure 3: Charges by Smoking Status", xlab = "Smoking Status", ylab = "Charges")
+boxplot(charges ~ region, data = insurance, main = "Figure 4: Charges by Location", xlab = "Region", ylab = "Charges")
+
+
+# Scatterplots for continuous variables
+# Scatterplots for continuous variables
+plot(insurance$age, insurance$charges, main = "Figure 5: Years old vs. Charges", xlab = "Years", ylab = "Charges")
+plot(insurance$bmi, insurance$charges, main = "Figure 6: Body Mass vs. Charges", xlab = "Body Mass", ylab = "Charges")
+```
+
+## Multiple Linear Regression Results
+**Age**:
+Each additional year of age is associated with an increase in medical charges by $256.90.This relationship is statistically significant (t-value = 21.587, p < 0.001).
+
+**BMI**:
+An increase of one unit in BMI is associated with an increase in medical charges by $339.20.This relationship is statistically significant (t-value = 11.860, p < 0.001).
+
+**Sex**:
+Being male is associated with a decrease in medical charges by $131.30 compared to being female. This difference is not statistically significant (p = 0.693).
+
+**Smoker**:
+Being a smoker is associated with a substantial increase in medical charges by $23848.50 compared to being a nonsmoker. This relationship is statistically significant (t-value = 57.723, p < 0.001) and is one of the strongest associations from this dataset.
+
+**Children**:
+Each additional child covered by health insurance is associated with an increase in medical charges by $475.50. This relationship is statistically significant (t-value = 3.451, p = 0.001).
+
+**Region**:
+There exists a difference between each region, but their respective significance varies. Individuals from the southeast region have on average $1035.00 lower medical charges compared to the northeast region, which is statistically significant (p = 0.031).
+```{r warning=FALSE, message=FALSE, results="hide", include=FALSE}
+model <- lm(charges ~ age + sex + bmi + children + smoker + region, data = insurance)
+summary(model)
+```
+
+## Linear Regression Assumptions
+**Linearity of the data**:
+From the "Residuals vs Fitted Values" plot, we observe a random scatter of residuals across the range of fitted values. There is no clear pattern, indicating that the assumption of linearity is likely met.
+
+**Normality of residuals**:
+In the Q-Q plot, the residuals appear to follow the diagonal line reasonably well, indicating that the assumption of normality is likely met.
+
+**Homogeneity of residuals variance**:
+In the "Scale-Location Plot", the spread of standardized residuals should be relatively consistent across different levels of fitted values. From the plot, there is no obvious pattern in the spread of residuals, indicating that the assumption of homogeneity of variance is likely met.
+```{r warning=FALSE, message=FALSE, echo=FALSE}
+# Diagnostic plots for linear regression assumptions
+par(mfrow=c(2,2))
+
+# Residuals vs Fitted values
+plot(fitted(model), resid(model), main="Residuals vs Fitted Values", xlab="Fitted Values", ylab="Residuals")
+
+# Normal Q-Q plot
+qqnorm(resid(model), main="Normal Q-Q Plot")
+qqline(resid(model))
+
+# Scale-Location plot (Square root of standardized residuals)
+plot(sqrt(abs(resid(model))), abs(resid(model)), main="Scale-Location Plot", xlab="Fitted Values", ylab="Square Root of Standardized Residuals")
+
+# Residuals vs Leverage
+plot(hatvalues(model), resid(model), main="Residuals vs Leverage", xlab="Leverage", ylab="Residuals")
+```
+

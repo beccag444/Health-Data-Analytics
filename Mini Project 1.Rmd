@@ -1,0 +1,130 @@
+---
+title: "Coronavirus Exploratory Data Analysis"
+output: html_document
+date: "2024-03-12"
+author: "Becca Godfrey"
+---
+# Introduction
+COVID-19 is a respiratory illness that resulted in a global pandemic in 2020. COVID-19, or Coronavirus, spreads through droplets from an infected person. This may include, breath, sneezes, coughing, etc. People in close proximity to infected individuals are at risk of infection as they may inhale these droplets and catch the virus. COVID-19 can be both symptomatic and asymptomatic, with symptoms including cough, scratchy throat, loss of taste and smell, and fever among some of the most common. While there is no treatment, there are many preventative measures one can take such as getting the COVID vaccine, and wearing a mask, as well as avoiding exposure to infected individuals. People who are high risk of experiencing a severe issue with COVID are old people, those with existing health conditions, and people who are immunocompromised. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+setwd("/Users/becca/Documents/Spring Junior/INST452")
+```
+# Data Cleaning/Preparation
+First, output, warnings, and messages were suppressed. This makes the final document clearer and easier to handle and understand. The necessary libraries were loaded and the working directory was set to make calls to files clear, and to avoid calling each file with its full directory path. Then, both the CoronaVirus and Comorbidity files were imported and read. The two sets were then merged according to 'ID' and specific changes were made such as assuming age to be under 120, and renaming 'Mainland China' to 'China'. Formatting this code code, cleaning the data, and preparing the sets all ensure that the data is not only easier to work with from an analytic perspective, but it is easier for an audience to understand as well.
+```{r suppress, include=TRUE}
+# Suppressing output, warnings, and messages
+options(warn=-1)
+```
+
+```{r read, include=TRUE}
+# Loading required libraries
+library(readxl)
+```
+
+```{r import, include=TRUE}
+# Importing datasets
+CoronaVirus <- read_excel("CoronaVirus.xlsx")
+comorbidity <- read_excel("comorbidity.xlsx")
+```
+
+```{r merge, include=TRUE}
+# Merging datasets
+merged_data <- merge(CoronaVirus, comorbidity, by = "ID", all = TRUE)
+```
+
+```{r ageVal, include=TRUE}
+# Recode age
+merged_data$Age[merged_data$Age >= 120] <- NA
+```
+
+```{r chinaVal, include=TRUE}
+# Recode 'Mainland China' to 'China'
+merged_data$Country[merged_data$Country == 'Mainland China'] <- 'China'
+```
+
+# Exploratory Data Analysis
+After merging the CoronaVirus and Comorbidity files into merged_data, the new dataset had 1783 observations of 12 variables. The percentage of patients who were female was 49.7%. The median age of patients with Coronavirus was 28, and the median age of patients who died from COVID was 28.4, with a standard deviation of 15.9. Among the patients who died from COVID-19, 51.1% were from China, 0.5% were from Italy, and 10% were from the US. The percentage of patients who died from COVID-19 with no comorbidity was 71.1%. Those with lupus was 15.3%. Those with HIV was 7.5%. Those with heart disease was 3.9%, and those with liver disease was 1.9%.
+```{r numObs, include=TRUE}
+# Find number of observations
+num_observations <- as.numeric(nrow(merged_data))
+```
+
+```{r numVar, include=TRUE}
+# Find number of variables
+num_variables <- as.numeric(ncol(merged_data))
+```
+
+```{r numFem, include=TRUE}
+# Percentage of female patients
+if (any(is.na(merged_data$Sex))) {
+  merged_data$Sex[is.na(merged_data$Sex)] <- 'Unknown'
+}
+female_percentage <- round((sum(merged_data$Sex == 'F') / num_observations) * 100, 1)
+```
+
+```{r median, include=TRUE}
+# Median age of patients with covid
+median_age_CoronaVirus <- median(merged_data$Age[merged_data$CoronaVirus == '1'], na.rm = TRUE)
+```
+
+```{r mean, include=TRUE}
+# Mean age and std dev of patients who died
+mean_age_deceased <- mean(merged_data$Age[merged_data$Death == '1'], na.rm = TRUE)
+std_dev_age_deceased <- sd(merged_data$Age[merged_data$Death == '1'], na.rm = TRUE)
+```
+
+```{r percentCountry, include=TRUE}
+# Percentage of patients from China, Italy, and  US
+if (any(is.na(merged_data$Country))) {
+  merged_data$Country[is.na(merged_data$Country)] <- 'Unknown'
+}
+
+# Calculate percentages for each country
+percentage_china <- round((sum(merged_data$Country == 'China' & merged_data$CoronaVirus == '1', na.rm = TRUE) / sum(merged_data$CoronaVirus == '1', na.rm = TRUE)) * 100, 1)
+percentage_italy <- round((sum(merged_data$Country == 'Italy' & merged_data$CoronaVirus == '1', na.rm = TRUE) / sum(merged_data$CoronaVirus == '1', na.rm = TRUE)) * 100, 1)
+percentage_us <- round((sum(merged_data$Country == 'US' & merged_data$CoronaVirus == '1', na.rm = TRUE) / sum(merged_data$CoronaVirus == '1', na.rm = TRUE)) * 100, 1)
+```
+
+```{r comorbidities, include=TRUE}
+# Comorbidities
+corona_data <- merged_data %>% filter(CoronaVirus == '1')
+comorbidities <- c("None", "Lupus", "HIV", "Heart Disease", "Liver Disease")
+
+comorbidity_percentages <- sapply(comorbidities, function(x) {
+  sum_value <- sum(corona_data$Comorbidity == x, na.rm = TRUE)
+  total_value <- nrow(corona_data)
+  
+  if (is.na(sum_value) || is.na(total_value) || total_value == 0) {
+    percentage <- NA
+  } else {
+    percentage <- round((sum_value / total_value) * 100, 1)
+  }
+  return(percentage)
+})
+```
+
+# Data Visualization
+The boxplot illustrates the age variable versus CoronoVirus status (whether someone was positive or negative). It shows the median age to be around 28, which is also reflected by the data. It also includes an outlier above the age of 75. This is a good visual representation of the data spread because it is very easy and quick to interpret and provides a good general summary of the relationship between age and CoronaVirus. 
+```{r visual, include=TRUE}
+library(ggplot2)
+
+# Create boxplot
+ggplot(merged_data, aes(x = CoronaVirus, y = Age, fill = CoronaVirus)) +
+  geom_boxplot() +
+  labs(title = "Age vs CoronaVirus",
+       x = "CoronaVirus",
+       y = "Age") +
+  theme_minimal()
+```
+
+
+
+
+# References
+Centers for Disease Control and Prevention. (n.d.). Covid-19 overview and Infection Prevention and control priorities in non-U.S. healthcare settings. Centers for Disease Control and Prevention. https://www.cdc.gov/coronavirus/2019-ncov/hcp/non-us-settings/overview/index.html 
+World Health Organization. (n.d.). Coronavirus disease (covid-19). World Health Organization. https://www.who.int/emergencies/diseases/novel-coronavirus-2019 
+
+

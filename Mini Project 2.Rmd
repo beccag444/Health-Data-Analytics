@@ -1,0 +1,59 @@
+---
+title: "Mini Project 2"
+author: "Becca Godfrey"
+output: html_document
+date: "04-16-2024"
+---
+# Introduction
+The research question for this project asks if the number of days of poor physical health varies between males and females. This research is important to study because understanding the differences between males and females in a healthcare setting is crucial when it comes to the ability to make generalizations and approach preventative care. By analyzing data from the Behavioral Risk Factor Surveillance System, we are able to gain insight about areas where people may benefit from assistance. The stakeholders who may be affected by this research include the government, public health officials, healthcare providers, future researchers interested in gender and health, and patients now and in the future. The government and public health officials can approve policies based on the findings of this research to promote gender-specific health practices, targeted to men and women respectively. Additionally, healthcare providers are able to tailor their care more specifically to their patients. By following this approach, this could improve health outcomes for patients. Findings from this data may also allow other researchers to further investigate underlying health issues and other risks that are contributing factors in the health disparities between male and female patients. All of these factors are potential benefits that can allow for significantly better targeting in healthcare plans, treatment, policy, and general understanding of health variances between men and women. Understanding these differences is vital for providing equitable and effective healthcare to all individuals, regardless of gender, and can lead to improved health outcomes and overall well-being for all patients worldwide. By addressing gender-specific health needs, we can work towards achieving health equity and ensuring that everyone has access to the resources and support they need to lead healthy lives. This research not only contributes to the field of public health but also has broader implications for social justice and equality.
+# Data Cleaning & Exploratory Analysis 
+For this analysis, we used data from the Behavioral Risk Factor Surveillance System (BRFSS), which provides valuable insights into various health-related information. The data cleaning process involved several steps to prepare for analysis. First, the BRFSS.csv file was imported. The number of observations and variables in the data frame were then reported. The dataset comprised 3,260 observations and 397 variables. Next, I recoded all values of the "Number of Days Physical Health Not Good" variable that indicated "None," "Don’t know/Not sure," or "Refused" responses to NA. This step ensures that invalid or missing responses are appropriately handled. To confirm the success of the recoding process, this step was verified using a frequency table. The presence of NA values confirmed the successful recoding of invalid responses. Next, I created a new variable, SEX2, which recoded the existing SEX variable into "Male" and "Female" categories. This step was again verified using a frequency table. Next, I calculated the mean of the "Number of Days Physical Health Not Good" variable. The mean value provided an estimate of the average number of days of poor physical health reported by survey respondents. Finally, I calculated the percentages of males and females in the dataset.
+```{r dataCleaning, include=FALSE}
+# Import
+data <- read.csv("/Users/becca/Downloads/BRFSS.csv")
+
+# Number of observations
+num_observations <- nrow(data)
+
+# Number of variables
+num_variables <- ncol(data)
+
+# Recode 
+data$PHYSHLTH[data$PHYSHLTH == "None" | data$PHYSHLTH == "Don’t know/Not sure" | data$PHYSHLTH == "Refused"] <- NA
+
+# Check that the recode of the "Number of Days Physical Health Not Good" variable was successful
+table(data$PHYSHLTH)
+
+# New variable SEX2
+data$SEX2 <- ifelse(data$SEX == 1, "Male", "Female")
+table(data$SEX, data$SEX2)
+
+# Mean value after recode
+mean_physical_health <- mean(data$PHYSHLTH, na.rm = TRUE)
+
+# Percent male and female
+percentage_male <- mean(data$SEX == 1, na.rm = TRUE) * 100
+percentage_female <- 100 - percentage_male
+```
+# Data Visualization
+The histogram appears to be slightly right skewed, but could also be identified as random, with the vast majority of the data falling between 80 and 100 days. In the box plot, there are some very apparent differences between male and female reports and the number of days reported to be poor physical health. For females, there is a larger spread from about 20 to 90, but for males, this range is about 30 to 90. This shows that women have a significantly more varied representation of days of poor health that is less centralized as compared to males. 
+```{r dataVisualization, include=TRUE, echo=FALSE}
+# Create histogram
+hist(data$PHYSHLTH, main = "Distribution of Number of Days Physical Health Not Good",
+     xlab = "Number of Days", ylab = "Frequency")
+
+# Create plot
+boxplot(PHYSHLTH ~ SEX2, data = data,
+        main = "Distribution of Number of Days Physical Health Not Good by Sex",
+        xlab = "Sex", ylab = "Number of Days")
+```
+
+# Hypothesis Test
+The hypothesis test aimed to determine whether there is a significant difference in the mean number of days of poor physical health between males and females. The null hypothesis suggests that there is no disparity in the mean number of days of poor physical health between the two genders, while the alternative hypothesis there does exist a difference. A significance level of 0.05 was used. Using a two-sample t-test, the analysis yielded a p-value of 0.0007929. This is less than the significance level of 0.05, so we reject the null hypothesis. Therefore, there is a significant difference in the mean number of days of poor physical health between males and females in the dataset. Specifically, females reported a mean of 57.93 days of poor physical health, while males reported a mean of 62.47 days.
+```{r hypothesisTest, include=FALSE}
+# Hypothesis test
+test_result <- t.test(PHYSHLTH ~ SEX2, data = data)
+test_result
+```
+# Conclusion
+Based on the results of the hypothesis test, we reject the null hypothesis. The p-value of 0.0007929 indicates strong evidence against the null hypothesis, suggesting a significant difference in the mean number of days of poor physical health between males and females in the dataset. These findings show the importance of considering gender-specific health disparities and tailoring interventions to address the distinct health needs of males and females. Health practitioners can use these results for interventions and treatment plans that address the specific health needs of males and females. By understanding the differences in reported poor physical health days between genders, practitioners can develop targeted strategies for prevention, management, and support. The results of this analysis were somewhat expected, as existing research typically highlights gender differences in health. However, the magnitude of the difference might provoke future research which could explore the underlying factors contributing to these disparities including socio-economic status, access to healthcare, lifestyle factors, and psychosocial determinants. Additionally, longitudinal studies could assess the long-term impact of gender-specific interventions on health outcomes and quality of life.

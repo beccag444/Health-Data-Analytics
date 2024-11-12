@@ -1,0 +1,1774 @@
+ID,Sex,Race,Ethnicity,FName,LName,CoronaVirus,Age,Country,Death
+17,F,White,Not Hispanic,Patricia,JACKSON,0,87,UK,0
+36,M,White,Not Hispanic,Michael,RODRIGUEZ,0,55,Australia,0
+164,F,White,Hispanic,Julia,MARTIN,1,182,China,0
+327,M,White,Not Hispanic,Roland,WILSON,1,55,Japan,0
+367,F,White,Not Hispanic,Carol,MARTINEZ,1,55,China,0
+393,F,White,Not Hispanic,Mary,MARTIN,1,55,China,0
+446,M,White,Not Hispanic,Lorry,HERNANDEZ,0,,China,0
+541,M,White,Hispanic,James,MARTIN,1,55,Nepal,0
+564,F,White,Hispanic,Linda,MOORE,1,55,Sri Lanka,0
+688,M,White,Not Hispanic,Allen,MARTIN,1,55,China,1
+854,M,White,Not Hispanic,Clarence,THOMPSON,0,55,Sri Lanka,0
+983,F,Black or African American,Not Hispanic,Melissa,WILSON,1,55,China,1
+1055,F,White,Not Hispanic,Dorothy,WILSON,0,55,China,0
+1092,M,White,Not Hispanic,Vincent,RODRIGUEZ,1,55,Others,1
+1104,F,White,Hispanic,Judy,MOORE,1,55,China,0
+1160,M,White,Hispanic,James,THOMAS,1,55,China,0
+1246,M,White,Not Hispanic,William,MARTIN,0,55,China,0
+1274,M,Asian,Not Hispanic,Terry,LEWIS,0,55,South Korea,0
+1401,M,White,Not Hispanic,Don,LEE,0,55,China,0
+1435,F,White,Not Hispanic,Lucinda,RODRIGUEZ,1,55,US,0
+1581,M,Asian,Not Hispanic,Freddie,NELSON,1,55,China,0
+1603,F,White,Not Hispanic,Ann,JONES,1,55,China,0
+1606,F,White,Not Hispanic,Diana,JONES,1,55,China,1
+1623,F,White,Not Hispanic,Gloria,WILSON,1,55,Spain,1
+1630,M,Black or African American,Not Hispanic,Billy,MILLER,0,55,China,0
+1674,F,White,Not Hispanic,Rebecca,HERNANDEZ,1,55,Japan,1
+1684,F,White,Not Hispanic,Susan,WILLIAMS,0,55,China,0
+78,F,White,Hispanic,Ada,RODRIGUEZ,1,54,US,1
+94,M,White,Hispanic,Bernard,THOMAS,0,54,US,0
+126,M,Black or African American,Not Hispanic,Jerry,JONES,0,54,China,0
+305,F,White,Hispanic,Rebecca,JACKSON,0,54,China,0
+331,M,Asian,Not Hispanic,Eugene,PEREZ,1,54,Vietnam,1
+351,F,Two or more races,Not Hispanic,Noel,THOMPSON,0,54,China,0
+521,F,Asian,Not Hispanic,Susan,KING,0,54,China,0
+543,M,White,Not Hispanic,Eugene,MARTINEZ,1,54,Canada,1
+550,M,Black or African American,Not Hispanic,Fred,WILSON,0,54,Germany,0
+574,F,White,Hispanic,Phyllis,TAYLOR,0,,Finland,0
+580,F,Asian,Not Hispanic,Kathleen,MARTINEZ,1,54,Nepal,1
+586,F,White,Not Hispanic,Pamela,THOMAS,0,54,Sri Lanka,0
+652,MALE,White,Not Hispanic,David,THOMAS,0,54,China,0
+654,F,White,Hispanic,Linda,MARTIN,1,54,Taiwan,0
+686,M,White,Not Hispanic,Clyde,MARTINEZ,1,54,UK,0
+696,F,White,Not Hispanic,Carol,WILSON,0,54,Australia,0
+738,F,Asian,Not Hispanic,Nancy,ADAMS,1,54,China,1
+752,M,White,Hispanic,John,MARTINEZ,0,54,Philippines,0
+763,F,White,Hispanic,Beatrice,MARTINEZ,1,54,United Arab Emirates,1
+771,F,White,Hispanic,Janice,JACKSON,1,54,China,1
+784,M,White,Not Hispanic,William,TAYLOR,0,54,Australia,0
+786,M,White,Hispanic,Gary,JONES,0,54,Australia,0
+798,F,White,Hispanic,Belinda,THOMAS,0,54,US,0
+853,M,Two or more races,Not Hispanic,Ronald,THOMPSON,0,54,Sri Lanka,0
+890,M,White,Not Hispanic,Charles,THOMAS,1,54,Spain,0
+923,M,White,Hispanic,Michael,MOORE,0,54,South Korea,0
+961,F,White,Not Hispanic,Linda,MARTINEZ,0,54,China,0
+1063,F,White,Hispanic,Barbara,MARTIN,0,54,China,0
+1089,F,White,Hispanic,Glorietta,MARTIN,1,54,China,0
+1155,M,White,Not Hispanic,Thomas,DAVIS,0,54,India,0
+1185,M,White,Not Hispanic,Edward,HERNANDEZ,0,54,China,0
+1248,F,Black or African American,Not Hispanic,Rachel,GARCIA,1,54,China,1
+1249,F,White,Not Hispanic,Evelyn,DAVIS,1,54,China,0
+1278,M,White,Not Hispanic,Willie,THOMAS,0,54,China,0
+1322,F,White,Not Hispanic,Cynthia,WILLIAMS,0,54,China,0
+1328,F,White,Hispanic,Marsha,THOMPSON,1,54,Taiwan,1
+1368,M,White,Not Hispanic,Barry,ANDERSON,0,54,China,0
+1413,M,White,Not Hispanic,William,JACKSON,0,54,China,0
+1451,F,White,Not Hispanic,Sandra,LEE,1,54,Canada,0
+1476,M,White,Hispanic,William,GARCIA,1,54,US,0
+1525,F,Black or African American,Not Hispanic,Judy,WILSON,1,54,Vietnam,0
+1615,F,White,Not Hispanic,Kathy,MARTINEZ,1,54,China,1
+1652,M,White,Not Hispanic,Robert,MOORE,0,54,China,0
+1673,M,White,Not Hispanic,Nick,GARCIA,0,54,United Kingdom,0
+1711,F,White,Not Hispanic,Kathleen,THOMPSON,1,54,China,1
+1777,M,Asian,Not Hispanic,Willie,KING,1,54,China,1
+55,M,White,Not Hispanic,George,JONES,0,53,Australia,0
+83,F,White,Hispanic,Mary,JONES,1,53,US,1
+128,F,White,Not Hispanic,Shirley,WHITE,0,53,China,0
+268,F,White,Hispanic,Susan,MARTINEZ,0,53,China,0
+406,M,White,Not Hispanic,Buddy,THOMPSON,1,53,China,0
+434,F,Asian,Not Hispanic,Barbara,LEWIS,0,53,Canada,0
+464,M,White,Not Hispanic,Robert,MARTIN,1,,China,1
+496,F,White,Hispanic,Michelle,THOMAS,0,53,United Arab Emirates,0
+517,F,White,Not Hispanic,Barbara,BROWN,1,53,China,0
+540,M,White,Not Hispanic,Robert,TAYLOR,0,53,France,0
+597,M,Asian,Not Hispanic,Kenneth,KING,0,53,Finland,0
+601,M,Black or African American,Not Hispanic,Richard,BROWN,1,53,Nepal,1
+731,F,Black or African American,Not Hispanic,Carol,RODRIGUEZ,0,53,China,0
+749,F,Black or African American,Not Hispanic,Alice,WILLIAMS,1,53,China,1
+776,M,Black or African American,Not Hispanic,Kenneth,DAVIS,1,53,Australia,1
+789,M,Black or African American,Not Hispanic,William,GARCIA,1,53,China,1
+826,M,White,Not Hispanic,Ronnie,ANDERSON,0,53,US,0
+868,F,White,Hispanic,Jacquelyn,MARTIN,1,53,US,0
+885,F,White,Not Hispanic,Mary,JACKSON,1,53,Australia,0
+950,F,White,Not Hispanic,Eleanor,LOPEZ,0,53,China,0
+953,F,White,Not Hispanic,Dorothy,TAYLOR,0,53,China,0
+1009,F,White,Not Hispanic,Patricia,RODRIGUEZ,1,53,China,0
+1018,M,White,Not Hispanic,Elzie,MOORE,0,53,Philippines,0
+1124,M,White,Not Hispanic,Richard,DAVIS,0,53,China,0
+1168,M,White,Not Hispanic,Gerald,MILLER,1,53,China,1
+1179,M,White,Hispanic,David,WILSON,0,53,China,0
+1211,F,White,Not Hispanic,Linda,DAVIS,1,53,Thailand,1
+1267,M,White,Not Hispanic,Elizabeth,LOPEZ,1,53,China,1
+1276,M,White,Not Hispanic,William,JONES,1,53,Malaysia,1
+1354,F,White,Not Hispanic,Phyllis,WHITE,0,53,China,0
+1395,F,White,Not Hispanic,Sandra,JONES,1,53,China,1
+1417,F,White,Hispanic,Elizabeth,MARTIN,0,53,China,0
+1437,M,White,Not Hispanic,David,THOMAS,0,53,US,0
+1522,F,White,Not Hispanic,Helen,WILSON,1,53,US,0
+1523,M,White,Not Hispanic,Ambrose,WHITE,1,53,Vietnam,1
+1559,M,Asian,Not Hispanic,Robert,NELSON,0,53,Taiwan,0
+1575,M,White,Not Hispanic,Charles,LEE,0,53,China,0
+1689,M,White,Not Hispanic,Earl,MARTINEZ,1,53,Australia,0
+1705,F,White,Not Hispanic,Anita,JACKSON,1,53,China,1
+1725,M,White,Not Hispanic,Herman,DAVIS,0,53,United Arab Emirates,0
+1731,M,White,Not Hispanic,Theodore,JACKSON,1,53,China,0
+1737,F,White,Not Hispanic,Yvonne,ANDERSON,0,53,Australia,0
+114,M,Black or African American,Not Hispanic,Tony,WILLIAMS,0,52,Spain,0
+124,F,White,Not Hispanic,Linda,MARTIN,1,52,China,1
+140,M,Black or African American,Not Hispanic,James,JOHNSON,0,52,China,0
+220,M,White,Not Hispanic,Laverne,TAYLOR,0,52,China,0
+226,M,White,Not Hispanic,James,ANDERSON,1,52,China,1
+430,F,White,Not Hispanic,Kathryn,JOHNSON,0,52,Vietnam,0
+467,F,Two or more races,Hispanic,Patricia,JACKSON,0,52,China,0
+468,M,White,Not Hispanic,Bobby,JONES,1,52,China,1
+483,F,Black or African American,Not Hispanic,Patricia,MARTINEZ,1,52,Vietnam,0
+499,M,White,Not Hispanic,Jim,ANDERSON,1,52,China,0
+565,M,White,Not Hispanic,Donald,SMITH,1,52,Malaysia,1
+625,M,Black or African American,Not Hispanic,Jerry,WILSON,1,52,China,0
+724,F,White,Hispanic,Susan,RODRIGUEZ,0,52,China,0
+730,M,White,Hispanic,Marvin,ANDERSON,1,52,Singapore,1
+748,F,Black or African American,Not Hispanic,Elizabeth,DAVIS,0,52,China,0
+799,F,White,Not Hispanic,Karen,THOMPSON,0,52,US,0
+805,F,White,Hispanic,Susie,RODRIGUEZ,0,52,India,0
+845,F,Black or African American,Not Hispanic,Nancy,GARCIA,0,52,Italy,0
+952,F,White,Not Hispanic,Patricia,WILSON,1,,China,1
+972,M,White,Hispanic,Ernest,WILSON,1,52,Hong Kong,1
+1016,M,White,Hispanic,Herbert,THOMPSON,0,52,China,0
+1037,M,White,Not Hispanic,Warren,JACKSON,1,52,UK,1
+1075,M,White,Not Hispanic,Larry,MOORE,1,52,Macau,0
+1088,M,Black or African American,Not Hispanic,William,MARTINEZ,1,52,China,1
+1189,M,Black or African American,Not Hispanic,James,JOHNSON,0,52,China,0
+1225,M,White,Not Hispanic,Raymond,MARTINEZ,0,52,China,0
+1253,M,Black or African American,Not Hispanic,David,MARTINEZ,0,52,China,0
+1506,M,Black or African American,Not Hispanic,James,JOHNSON,0,52,Russia,0
+1514,F,White,Not Hispanic,Carole,WILLIAMS,0,52,Canada,0
+1579,F,White,Not Hispanic,Diana,WILSON,0,52,China,0
+1713,M,White,Not Hispanic,Peter,HERNANDEZ,0,52,Taiwan,0
+1724,F,White,Not Hispanic,Rose,MOORE,1,52,United Arab Emirates,0
+1729,M,Asian,Not Hispanic,Rodney,GREEN,0,52,China,0
+1772,M,White,Not Hispanic,Sammie,THOMPSON,0,52,United Arab Emirates,0
+40,F,White,Not Hispanic,Sharon,THOMPSON,1,51,Australia,0
+52,M,White,Not Hispanic,John,MARTIN,0,51,Australia,0
+77,F,White,Hispanic,Ann,MOORE,1,51,US,0
+104,M,White,Not Hispanic,Robert,MARTIN,0,51,US,0
+119,M,White,Hispanic,Daniel,HERNANDEZ,0,51,Spain,0
+123,M,White,Not Hispanic,George,JONES,1,51,China,1
+161,F,White,Not Hispanic,Carmela,DAVIS,0,51,China,0
+182,M,White,Not Hispanic,William,MOORE,1,51,China,1
+241,F,White,Not Hispanic,Judith,WILSON,1,51,Thailand,1
+257,F,White,Hispanic,Virginia,THOMAS,1,51,China,1
+355,F,White,Not Hispanic,Marlene,LEE,0,51,China,0
+447,M,White,Hispanic,Henry,JACKSON,1,51,China,0
+455,F,Black or African American,Not Hispanic,Barbara,MILLER,1,51,China,1
+569,F,Black or African American,Not Hispanic,Amanda,SMITH,0,51,Nepal,0
+589,F,White,Not Hispanic,Johnella,LOPEZ,1,51,Finland,0
+590,F,White,Hispanic,Leila,MARTINEZ,0,51,Nepal,0
+594,M,White,Not Hispanic,Steve,JACKSON,0,51,Nepal,0
+599,F,White,Not Hispanic,Kathy,ANDERSON,0,51,Cambodia,0
+617,M,White,Not Hispanic,Neil,DAVIS,0,51,Russia,0
+637,M,White,Not Hispanic,Raymond,WHITE,1,51,China,1
+641,F,White,Not Hispanic,Annie,LOPEZ,0,51,China,0
+759,M,White,Not Hispanic,Anthony,RODRIGUEZ,0,51,China,0
+807,M,White,Not Hispanic,Harold,LEE,0,51,India,0
+916,M,Black or African American,Not Hispanic,Jackie,GARCIA,1,51,China,0
+932,M,Black or African American,Not Hispanic,Norman,JOHNSON,0,51,China,0
+1051,M,Black or African American,Not Hispanic,Irving,MARTINEZ,0,51,China,0
+1087,F,White,Hispanic,Cheryl,MARTINEZ,1,51,China,0
+1094,M,Black or African American,Not Hispanic,Gary,DAVIS,1,51,China,1
+1150,M,White,Not Hispanic,Laverne,RODRIGUEZ,1,,India,0
+1154,F,White,Not Hispanic,Susan,DAVIS,1,51,India,0
+1186,F,White,Not Hispanic,Janet,THOMPSON,0,51,China,0
+1208,F,White,Not Hispanic,Diana,JONES,1,51,South Korea,0
+1268,F,White,Hispanic,Carolyn,MARTIN,0,51,China,0
+1431,M,White,Hispanic,Samuel,ANDERSON,0,51,US,0
+1489,F,White,Not Hispanic,Patricia,MARTIN,1,51,Finland,0
+1518,F,White,Not Hispanic,Vickie,TAYLOR,0,51,UK,0
+1519,M,White,Not Hispanic,Dennis,WHITE,0,51,US,0
+1532,M,White,Not Hispanic,Berkeley,LEE,1,51,Germany,0
+1650,F,White,Not Hispanic,Cheryl,JONES,0,51,Hong Kong,0
+1678,F,White,Hispanic,Jeanette,JACKSON,1,51,China,1
+1704,M,White,Not Hispanic,Donald,THOMPSON,0,51,China,0
+1707,F,Black or African American,Hispanic,Georgia,HERNANDEZ,1,51,China,0
+1765,M,White,Not Hispanic,Robert,BROWN,0,51,China,0
+38,F,White,Not Hispanic,Delane,THOMAS,1,50,Australia,1
+91,M,White,Not Hispanic,Olin,JACKSON,0,50,US,0
+173,M,White,Not Hispanic,Fred,TAYLOR,1,50,China,0
+236,M,White,Not Hispanic,Charles,LEE,1,50,China,1
+324,F,White,Not Hispanic,Judy,LOPEZ,0,50,US,0
+353,M,White,Not Hispanic,Sheldon,GARCIA,1,50,China,1
+387,M,White,Not Hispanic,Jacob,MOORE,1,50,Australia,0
+497,F,White,Not Hispanic,Susan,WHITE,0,50,China,0
+525,F,Black or African American,Not Hispanic,Joanne,DAVIS,0,50,China,0
+560,M,White,Not Hispanic,Jerry,DAVIS,0,50,Cambodia,0
+563,F,White,Not Hispanic,Deborah,WHITE,0,50,Nepal,0
+673,M,White,Not Hispanic,Eddie,TAYLOR,0,50,Sri Lanka,0
+734,M,White,Not Hispanic,Joe,THOMPSON,1,50,China,0
+753,M,White,Not Hispanic,Everett,TAYLOR,1,50,Philippines,0
+827,F,White,Hispanic,Sandra,MARTIN,0,50,China,0
+856,F,White,Not Hispanic,Pauline,WILSON,1,50,France,0
+886,M,American Indian and Alaska Native,Not Hispanic,Juan,ANDERSON,1,50,Australia,0
+892,M,White,Not Hispanic,Donald,LEE,1,50,China,0
+904,M,White,Not Hispanic,Roger,RODRIGUEZ,1,50,China,1
+990,F,White,Hispanic,Doris,WILSON,0,50,Finland,0
+1014,F,American Indian and Alaska Native,Not Hispanic,Diane,MOORE,0,50,Japan,0
+1120,F,White,Not Hispanic,Teri,JACKSON,1,50,US,0
+1162,M,White,Not Hispanic,Dan,MARTIN,0,50,Canada,0
+1245,M,White,Not Hispanic,Kenneth,DAVIS,1,50,China,0
+1284,F,White,Not Hispanic,Janice,THOMAS,0,50,US,0
+1319,M,White,Not Hispanic,Barry,DAVIS,0,50,China,0
+1419,M,White,Not Hispanic,James,BROWN,0,50,China,0
+1423,M,White,Not Hispanic,Leon,ANDERSON,1,50,Sweden,1
+1447,M,White,Not Hispanic,William,LEE,1,50,US,1
+1466,F,Black or African American,Not Hispanic,Joyce,JONES,0,50,Italy,0
+1475,F,White,Not Hispanic,Kay,WHITE,0,50,US,0
+1544,M,White,Not Hispanic,Leroy,ANDERSON,1,50,Australia,0
+1605,F,White,Not Hispanic,Mary,MILLER,0,50,China,0
+1701,F,White,Hispanic,Barbara,THOMPSON,1,50,China,1
+27,M,White,Not Hispanic,Joseph,RODRIGUEZ,0,49,Sweden,0
+49,F,Two or more races,Not Hispanic,Marcelene,THOMPSON,0,49,Australia,0
+73,M,White,Not Hispanic,Philip,DAVIS,1,49,US,1
+154,F,Asian,Not Hispanic,Diane,HARRIS,0,49,China,0
+224,F,White,Hispanic,Marlene,THOMPSON,0,49,China,0
+361,M,White,Not Hispanic,Joseph,JACKSON,0,49,China,0
+376,F,White,Not Hispanic,Emma,HERNANDEZ,1,49,South Korea,1
+481,F,Black or African American,Not Hispanic,Annette,BROWN,1,49,South Korea,0
+622,M,Two or more races,Not Hispanic,Thomas,MOORE,0,49,Russia,0
+628,M,Black or African American,Not Hispanic,Albert,RODRIGUEZ,1,49,China,1
+635,M,White,Hispanic,Joseph,MOORE,1,49,China,0
+651,M,White,Not Hispanic,Robert,THOMPSON,1,49,China,1
+755,M,White,Not Hispanic,Donald,ANDERSON,0,49,Philippines,0
+857,F,White,Not Hispanic,Kathleen,JACKSON,1,49,France,0
+899,F,Asian,Not Hispanic,Rosa,NELSON,1,49,China,0
+925,F,White,Not Hispanic,Grace,WHITE,1,49,Vietnam,0
+959,F,White,Not Hispanic,Nancy,DAVIS,0,49,Japan,0
+974,F,Asian,Not Hispanic,Susan,ALLEN,0,49,China,0
+981,F,White,Not Hispanic,Faye,WHITE,0,49,Germany,0
+1040,F,White,Not Hispanic,Glenn,RODRIGUEZ,1,49,China,1
+1090,F,White,Hispanic,Sherry,THOMPSON,0,49,China,0
+1210,M,White,Not Hispanic,Joseph,THOMAS,0,49,Thailand,0
+1227,F,White,Not Hispanic,Katherine,DAVIS,0,49,China,0
+1251,F,White,Not Hispanic,Mary,BROWN,1,49,China,0
+1255,M,White,Not Hispanic,Robert,JACKSON,1,49,China,1
+1391,F,White,Not Hispanic,Donna,THOMAS,1,49,China,0
+1487,F,White,Not Hispanic,Karen,THOMPSON,1,49,Finland,0
+1505,M,White,Not Hispanic,Kenneth,LEE,1,49,Nepal,0
+1526,F,Asian,Not Hispanic,Linda,LEWIS,1,49,Vietnam,0
+1538,M,Asian,Not Hispanic,Casimiro,NELSON,1,49,Australia,1
+1549,F,White,Not Hispanic,Linda,ANDERSON,0,49,US,0
+1552,M,Black or African American,Not Hispanic,Ernest,MARTINEZ,0,49,Others,0
+1573,F,White,Not Hispanic,Maryann,RODRIGUEZ,0,49,China,0
+1655,M,White,Hispanic,Robert,HERNANDEZ,0,49,Taiwan,0
+1774,F,White,Not Hispanic,Marla,WILSON,1,49,China,0
+18,F,White,Not Hispanic,Elizabeth,THOMPSON,0,48,China,0
+25,M,White,Not Hispanic,Billy,ANDERSON,0,48,Sweden,0
+138,F,White,Not Hispanic,Carol,JONES,0,48,China,0
+207,M,Asian,Not Hispanic,Harvey,LEE,1,48,China,1
+427,M,White,Not Hispanic,Robert,JONES,0,48,Thailand,0
+740,M,White,Not Hispanic,Robert,GARCIA,1,48,South Korea,1
+844,F,White,Not Hispanic,Cheryl,ANDERSON,1,48,Italy,0
+918,M,White,Not Hispanic,Fred,JACKSON,0,48,China,0
+998,M,Black or African American,Not Hispanic,James,JOHNSON,1,48,United Arab Emirates,0
+1137,M,White,Not Hispanic,Patrick,HERNANDEZ,0,48,US,0
+1287,M,White,Hispanic,Thomas,WILSON,1,48,China,1
+1483,F,White,Hispanic,Brenda,ANDERSON,1,48,Australia,1
+1491,F,Asian,Not Hispanic,Paula,JACKSON,0,48,China,0
+1507,F,White,Hispanic,Sharon,THOMAS,0,48,Nepal,0
+1567,F,White,Hispanic,Renee,MARTIN,1,48,China,1
+1645,F,White,Not Hispanic,Joann,LOPEZ,0,48,China,0
+1721,M,White,Not Hispanic,Joe,THOMPSON,1,48,UK,1
+1730,M,Black or African American,Not Hispanic,Richard,GARCIA,1,48,China,0
+1782,M,Black or African American,Not Hispanic,Robert,GARCIA,0,48,Thailand,0
+89,F,White,Not Hispanic,Katherine,DAVIS,0,47,US,0
+150,M,White,Not Hispanic,Charles,THOMAS,1,47,China,0
+158,M,White,Hispanic,Preston,MARTIN,0,47,Thailand,0
+180,F,White,Not Hispanic,Loretta,LOPEZ,0,47,Macau,0
+261,M,Asian,Not Hispanic,Glen,THOMAS,1,47,China,0
+278,F,White,Hispanic,Marcella,ANDERSON,0,47,US,0
+337,F,White,Not Hispanic,Mary,WHITE,0,47,China,0
+379,F,Black or African American,Not Hispanic,Gloria,GARCIA,0,47,France,0
+401,M,White,Not Hispanic,John,TAYLOR,0,47,China,0
+472,M,Asian,Not Hispanic,David,GREEN,1,47,Macau,1
+484,F,White,Not Hispanic,Susan,HERNANDEZ,0,47,France,0
+505,M,Two or more races,Not Hispanic,Terry,MARTINEZ,1,47,China,1
+515,M,White,Not Hispanic,Joe,WHITE,0,47,China,0
+760,F,Two or more races,Not Hispanic,Anita,SMITH,0,47,Macau,0
+884,M,White,Hispanic,Richard,THOMPSON,1,47,Australia,1
+935,F,White,Not Hispanic,Wanda,MILLER,0,47,China,0
+1002,M,White,Not Hispanic,Charles,LEE,1,47,China,0
+1042,M,White,Not Hispanic,Guy,MARTINEZ,0,47,China,0
+1052,F,White,Not Hispanic,Anita,BROWN,0,47,China,0
+1099,F,Black or African American,Not Hispanic,Mary,JONES,0,47,China,0
+1103,M,Black or African American,Not Hispanic,Joseph,BROWN,1,47,China,0
+1128,M,White,Hispanic,William,MARTINEZ,0,47,China,0
+1202,F,White,Hispanic,Diana,MARTINEZ,0,47,China,0
+1232,F,White,Not Hispanic,Marva,JACKSON,0,47,China,0
+1252,F,Asian,Not Hispanic,Kathleen,SANCHEZ,1,47,China,0
+1303,M,White,Not Hispanic,William,WHITE,1,47,China,1
+1358,M,White,Hispanic,Eugene,MARTIN,1,47,China,1
+1436,F,White,Not Hispanic,Anita,LEE,1,47,US,1
+1457,F,White,Not Hispanic,Terri,LOPEZ,0,47,Belgium,0
+1755,F,White,Not Hispanic,Ella,MARTINEZ,0,47,China,0
+1760,F,White,Hispanic,Constance,MILLER,0,47,China,0
+14,M,White,Not Hispanic,Edward,MOORE,1,46,UK,1
+24,M,White,Not Hispanic,Thomas,MARTINEZ,1,46,Sweden,0
+32,M,Native Hawaiian and Other Pacific Islander,Hispanic,Clarke,THOMAS,0,46,Vietnam,0
+109,F,White,Not Hispanic,Leslie,WILSON,1,46,US,1
+111,F,White,Not Hispanic,Dena,ANDERSON,0,46,China,0
+196,M,White,Not Hispanic,Henry,DAVIS,0,46,Thailand,0
+205,M,White,Not Hispanic,James,MARTIN,0,46,China,0
+267,F,Black or African American,Not Hispanic,Deborah,BROWN,1,46,China,0
+335,M,White,Not Hispanic,James,ANDERSON,1,46,Malaysia,0
+512,F,Black or African American,Not Hispanic,Bea,BROWN,1,46,China,1
+567,F,White,Not Hispanic,Linda,MOORE,1,46,Cambodia,0
+629,M,Black or African American,Hispanic,Jack,MOORE,1,46,China,0
+667,M,Black or African American,Not Hispanic,George,MILLER,1,46,France,0
+668,M,White,Not Hispanic,William,THOMPSON,0,46,Nepal,0
+762,F,American Indian and Alaska Native,Not Hispanic,Regina,WILSON,1,46,China,1
+897,F,White,Hispanic,Elizabeth,ANDERSON,0,46,Hong Kong,0
+975,M,White,Not Hispanic,Edward,LOPEZ,0,46,China,0
+1008,M,White,Not Hispanic,John,MARTINEZ,0,46,China,0
+1116,F,White,Not Hispanic,Beverly,LEE,1,46,US,0
+1183,F,White,Not Hispanic,Charlotte,JONES,1,46,China,1
+1256,F,White,Hispanic,Ruth,MOORE,0,46,China,0
+1346,M,White,Hispanic,James,ANDERSON,1,46,Canada,0
+1402,M,American Indian and Alaska Native,Not Hispanic,James,RODRIGUEZ,0,46,China,0
+1421,M,White,Not Hispanic,Christopher,TAYLOR,1,46,Sweden,1
+1480,F,White,Not Hispanic,Donna,HERNANDEZ,0,46,US,0
+1548,F,White,Hispanic,Edwina,TAYLOR,1,46,India,1
+1596,F,White,Not Hispanic,Joan,SMITH,1,46,China,0
+1726,F,White,Not Hispanic,Cheryl,MARTIN,1,46,China,0
+1781,F,Black or African American,Not Hispanic,Roberta,JOHNSON,1,46,Belgium,1
+143,F,White,Not Hispanic,Sharon,GARCIA,1,45,China,0
+175,M,White,Not Hispanic,Douglas,LEE,0,45,China,0
+237,M,White,Not Hispanic,Thomas,ANDERSON,1,45,China,0
+287,M,White,Not Hispanic,William,MARTINEZ,1,45,Malaysia,1
+352,F,White,Not Hispanic,Patricia,JACKSON,1,45,China,0
+358,M,Black or African American,Not Hispanic,Jerald,MARTINEZ,1,45,China,0
+372,F,Black or African American,Not Hispanic,Patsy,SMITH,1,45,US,1
+394,M,White,Not Hispanic,James,RODRIGUEZ,1,45,China,0
+400,M,White,Not Hispanic,Glenn,MILLER,1,45,China,1
+403,F,White,Not Hispanic,Judith,LOPEZ,1,45,China,1
+507,M,White,Not Hispanic,Russell,MOORE,0,45,China,0
+612,M,White,Not Hispanic,Samuel,HERNANDEZ,1,45,Taiwan,0
+663,F,White,Not Hispanic,Sandra,WILSON,1,45,Thailand,1
+679,M,White,Hispanic,George,TAYLOR,1,45,United Arab Emirates,1
+739,F,White,Not Hispanic,Bonnie,SMITH,1,45,China,0
+859,M,Black or African American,Not Hispanic,Eugene,MARTINEZ,1,45,Thailand,1
+882,M,Asian,Not Hispanic,Lester,SANCHEZ,0,45,Australia,0
+891,M,White,Not Hispanic,Edward,LOPEZ,0,45,Spain,0
+938,F,White,Not Hispanic,Edith,ANDERSON,0,45,China,0
+955,F,White,Not Hispanic,Marcia,JACKSON,1,45,Others,0
+977,M,Black or African American,Not Hispanic,Adrien,WILSON,1,45,Vietnam,0
+1026,F,White,Not Hispanic,Rebecca,THOMAS,1,45,Russia,1
+1028,M,White,Not Hispanic,Vincent,MILLER,1,45,South Korea,0
+1030,M,White,Not Hispanic,Kingsley,LOPEZ,1,45,Nepal,0
+1047,M,White,Not Hispanic,Chester,GARCIA,1,45,China,0
+1070,F,Asian,Not Hispanic,Jayne,ANDERSON,1,45,China,0
+1093,M,White,Not Hispanic,Salvatore,WHITE,1,45,China,0
+1147,M,Black or African American,Hispanic,Gerald,THOMPSON,1,45,Germany,1
+1165,F,Black or African American,Not Hispanic,Janet,RODRIGUEZ,0,45,Canada,0
+1293,M,White,Hispanic,Curtis,JACKSON,1,45,China,0
+1294,M,White,Not Hispanic,Gerald,JONES,0,45,China,0
+1366,M,White,Not Hispanic,Leonard,LEE,0,45,China,0
+1424,F,White,Not Hispanic,Vicki,WHITE,1,45,US,1
+1690,M,White,Not Hispanic,Michael,WILSON,0,45,China,0
+1710,F,White,Not Hispanic,Donna,GARCIA,0,45,Japan,0
+1773,F,White,Hispanic,Elizabeth,THOMPSON,1,45,United Arab Emirates,1
+22,M,Black or African American,Not Hispanic,Michael,WILSON,0,44,Sweden,0
+210,F,White,Not Hispanic,Wanda,MOORE,0,44,China,0
+218,M,White,Not Hispanic,James,WILSON,1,44,China,1
+292,F,White,Hispanic,Brenda,MARTIN,1,44,China,0
+516,M,White,Not Hispanic,Thomas,THOMPSON,0,44,China,0
+576,M,White,Hispanic,Thomas,MOORE,0,44,Sri Lanka,0
+648,F,White,Not Hispanic,Annmarie,GARCIA,1,44,China,1
+773,M,White,Not Hispanic,Barry,TAYLOR,0,44,China,0
+823,M,White,Not Hispanic,Gene,THOMPSON,1,44,US,1
+838,F,White,Hispanic,Angeline,THOMPSON,1,44,Canada,1
+862,F,White,Not Hispanic,Sara,MARTINEZ,0,44,Japan,0
+879,M,White,Not Hispanic,Rick,MOORE,1,44,US,0
+903,M,White,Not Hispanic,Robert,LOPEZ,1,44,China,0
+917,M,White,Not Hispanic,John,MOORE,0,44,China,0
+993,M,White,Not Hispanic,Harold,LOPEZ,0,44,China,0
+1007,F,White,Not Hispanic,Ruthie,WHITE,1,44,China,1
+1019,F,White,Hispanic,Carolyn,MOORE,0,44,Cambodia,0
+1049,F,White,Not Hispanic,Barbara,LOPEZ,0,44,China,0
+1077,M,Black or African American,Not Hispanic,Darell,GARCIA,1,44,Singapore,1
+1083,M,White,Not Hispanic,Matthew,TAYLOR,1,44,Australia,1
+1126,F,White,Not Hispanic,Pamela,JOHNSON,0,44,China,0
+1171,M,White,Not Hispanic,Edwin,LEE,0,44,Canada,0
+1178,F,White,Not Hispanic,Donna,THOMAS,0,44,China,0
+1283,F,Asian,Hispanic,Vivienne,TAYLOR,1,44,Canada,0
+1316,F,Black or African American,Hispanic,Thomas,MARTIN,1,44,China,1
+1387,M,White,Not Hispanic,William,MARTIN,0,44,Malaysia,0
+1434,F,White,Not Hispanic,Willie,LOPEZ,0,44,US,0
+1450,M,White,Not Hispanic,Frank,JONES,1,44,US,0
+1501,M,Black or African American,Not Hispanic,Jack,GARCIA,0,44,Philippines,0
+1528,F,White,Not Hispanic,Saralyn,MARTINEZ,0,44,Malaysia,0
+1572,F,White,Not Hispanic,Linda,LOPEZ,0,44,Singapore,0
+1580,M,White,Hispanic,William,THOMAS,1,44,China,0
+1620,F,White,Not Hispanic,Mary,TAYLOR,0,44,China,0
+1654,M,White,Not Hispanic,Leroy,LOPEZ,0,44,China,0
+1680,M,White,Not Hispanic,Alfred,GARCIA,1,44,China,0
+1779,M,White,Hispanic,William,MOORE,1,44,China,1
+95,F,White,Hispanic,Tereasa,TAYLOR,0,43,US,0
+102,M,White,Not Hispanic,Lawrence,GARCIA,1,43,US,1
+125,M,White,Hispanic,Dale,MARTIN,0,43,China,0
+129,F,White,Not Hispanic,Marilyn,MILLER,0,43,China,0
+235,F,White,Not Hispanic,Judy,MOORE,1,43,China,1
+338,M,White,Not Hispanic,Willie,THOMPSON,0,43,China,0
+409,F,White,Not Hispanic,Carol,LOPEZ,0,43,China,0
+450,M,White,Hispanic,James,MOORE,1,43,China,0
+457,F,White,Not Hispanic,Donna,WILSON,1,43,China,0
+551,F,White,Hispanic,Linda,DAVIS,1,43,Finland,0
+587,F,Black or African American,Not Hispanic,Lorraine,ANDERSON,1,43,Italy,1
+630,M,Black or African American,Not Hispanic,Richard,RODRIGUEZ,1,43,China,0
+671,F,White,Not Hispanic,Marilyn,LEE,1,43,Canada,0
+682,M,White,Not Hispanic,Chris,THOMAS,0,43,Italy,0
+728,F,White,Not Hispanic,Lynda,HERNANDEZ,1,43,Hong Kong,1
+758,M,White,Not Hispanic,Ray,WHITE,0,43,China,0
+787,M,White,Hispanic,Jerry,MARTINEZ,1,43,Australia,0
+847,M,Black or African American,Not Hispanic,Leon,JONES,0,43,Italy,0
+852,F,White,Hispanic,Cynthia,THOMPSON,1,43,Sri Lanka,1
+888,M,White,Not Hispanic,Tommy,HERNANDEZ,0,43,Spain,0
+1022,F,White,Not Hispanic,Ruth,MARTIN,1,43,China,0
+1098,M,White,Not Hispanic,Raymond,MARTINEZ,1,43,China,0
+1143,M,White,Not Hispanic,Charles,LEE,0,43,China,0
+1156,F,White,Not Hispanic,Bonita,DAVIS,0,43,India,0
+1201,M,White,Not Hispanic,Robert,TAYLOR,1,43,China,1
+1228,M,White,Not Hispanic,Lawrence,MILLER,0,43,China,0
+1263,M,White,Hispanic,John,TAYLOR,0,43,China,0
+1513,F,Asian,Not Hispanic,Mary,SCOTT,1,43,Canada,1
+1595,M,White,Not Hispanic,David,BROWN,1,43,China,0
+1651,F,White,Not Hispanic,Judith,HERNANDEZ,0,43,China,0
+1672,F,White,Hispanic,Barbara,MOORE,0,43,UK,0
+1748,F,White,Not Hispanic,Linda,WILSON,1,43,China,1
+1753,F,White,Not Hispanic,Treva,MARTIN,1,43,China,1
+13,F,White,Not Hispanic,Deborah,WILSON,0,42,France,0
+34,F,White,Hispanic,Judith,MARTIN,1,42,China,1
+48,M,White,Not Hispanic,John,THOMPSON,1,42,Canada,0
+112,M,White,Not Hispanic,Michael,THOMPSON,1,42,Germany,0
+133,M,White,Hispanic,John,THOMPSON,1,42,China,0
+155,M,White,Not Hispanic,William,WHITE,0,42,China,0
+162,F,White,Not Hispanic,Carolyn,MARTINEZ,0,42,China,0
+213,F,White,Not Hispanic,Elizabeth,RODRIGUEZ,0,42,China,0
+258,F,White,Not Hispanic,Janet,WILLIAMS,1,42,China,1
+359,F,White,Not Hispanic,Frances,THOMAS,0,42,China,0
+535,M,White,Not Hispanic,Carl,THOMPSON,0,42,Japan,0
+557,F,White,Hispanic,Linda,HERNANDEZ,0,42,Macau,0
+577,F,White,Not Hispanic,Danielle,MARTIN,0,42,Italy,0
+614,M,White,Not Hispanic,Lee,ANDERSON,0,42,Russia,0
+710,F,White,Not Hispanic,Linda,THOMAS,1,42,US,0
+720,M,White,Not Hispanic,Robert,MARTIN,0,42,China,0
+745,M,White,Not Hispanic,Carl,WHITE,1,42,China,0
+754,F,White,Not Hispanic,Constance,LOPEZ,0,42,Philippines,0
+785,F,White,Not Hispanic,Charlene,THOMPSON,1,42,Australia,0
+788,M,White,Not Hispanic,Gary,THOMPSON,0,42,Australia,0
+825,M,White,Hispanic,Gary,THOMAS,0,42,US,0
+893,F,White,Not Hispanic,Marilyn,TAYLOR,1,42,China,0
+937,M,White,Not Hispanic,Albert,JACKSON,1,42,China,0
+948,M,White,Not Hispanic,Max,RODRIGUEZ,1,42,China,1
+1058,M,White,Not Hispanic,Paul,WHITE,1,42,China,0
+1062,F,White,Not Hispanic,Donna,ANDERSON,0,42,China,0
+1170,M,White,Not Hispanic,Dean,LOPEZ,0,42,Canada,0
+1220,M,Black or African American,Not Hispanic,Peter,BROWN,1,42,Australia,0
+1260,M,White,Not Hispanic,William,BROWN,1,42,China,1
+1312,F,White,Not Hispanic,Shawne,SMITH,1,42,China,0
+1373,M,Asian,Not Hispanic,Robert,TAYLOR,0,42,Germany,0
+1376,F,Black or African American,Not Hispanic,Brenda,WILLIAMS,0,42,Italy,0
+1397,M,White,Not Hispanic,James,RODRIGUEZ,0,42,China,0
+1484,F,Black or African American,Not Hispanic,Sally,DAVIS,1,42,Australia,0
+1502,M,White,Not Hispanic,Mitchell,MARTIN,0,42,Cambodia,0
+1554,M,White,Not Hispanic,Ralph,JACKSON,1,42,China,0
+1555,M,White,Not Hispanic,Robert,THOMPSON,1,42,China,1
+1556,F,White,Not Hispanic,Sherri,MARTIN,0,42,China,0
+1587,M,White,Not Hispanic,Emmett,WHITE,1,42,Egypt,0
+1642,F,White,Not Hispanic,Barbara,WILLIAMS,1,42,India,1
+1665,F,White,Not Hispanic,Jackie,MOORE,0,42,China,0
+1720,M,Asian,Not Hispanic,Richard,CLARK,0,42,UK,0
+1738,M,White,Not Hispanic,Arthur,MILLER,1,42,China,1
+117,M,White,Not Hispanic,Robert,MOORE,0,41,Spain,0
+141,M,White,Not Hispanic,John,WILSON,1,41,China,0
+147,M,American Indian and Alaska Native,Hispanic,Henry,HERNANDEZ,0,41,China,0
+156,M,White,Hispanic,David,THOMAS,0,41,China,0
+185,F,White,Not Hispanic,Connie,THOMPSON,1,41,China,0
+222,M,Black or African American,Not Hispanic,Jim,SMITH,1,41,China,0
+295,F,White,Not Hispanic,Pat,TAYLOR,0,41,China,0
+328,F,Black or African American,Not Hispanic,Betty,JONES,0,41,Thailand,0
+344,F,Black or African American,Not Hispanic,Marilyn,BROWN,1,41,China,1
+380,F,American Indian and Alaska Native,Not Hispanic,Sandra,HERNANDEZ,0,41,Nepal,0
+395,F,White,Hispanic,Carla,WILSON,0,41,China,0
+407,F,White,Not Hispanic,Jeanette,GARCIA,0,41,China,0
+441,F,White,Not Hispanic,Sandra,LOPEZ,1,41,China,0
+520,F,White,Not Hispanic,Nancy,THOMPSON,1,41,China,1
+620,M,Black or African American,Not Hispanic,Richard,GARCIA,1,41,Russia,0
+632,F,White,Not Hispanic,Linda,MILLER,1,41,China,0
+664,M,Asian,Not Hispanic,Russell,GREEN,0,41,South Korea,0
+670,F,White,Not Hispanic,Darla,MOORE,1,41,Canada,1
+715,M,White,Not Hispanic,John,JOHNSON,1,41,US,0
+721,M,Black or African American,Hispanic,Wesley,TAYLOR,0,41,China,0
+940,F,White,Not Hispanic,Charlotte,DAVIS,0,41,China,0
+1031,M,White,Not Hispanic,Charles,RODRIGUEZ,1,41,China,0
+1045,M,White,Not Hispanic,Kenneth,HERNANDEZ,0,41,China,0
+1118,F,White,Not Hispanic,Patricia,WILSON,1,41,US,0
+1295,F,White,Not Hispanic,Deborah,JACKSON,1,41,China,0
+1341,F,White,Not Hispanic,Arleen,WILLIAMS,1,41,China,1
+1350,M,Black or African American,Not Hispanic,Lamont,WILSON,0,41,China,0
+1360,M,White,Not Hispanic,Dennis,THOMPSON,0,41,Hong Kong,0
+1418,F,White,Not Hispanic,Paulette,THOMPSON,1,41,China,0
+1482,F,Asian,Not Hispanic,Mary,HALL,0,41,Australia,0
+1490,F,White,Not Hispanic,Diana,MARTIN,0,41,United Arab Emirates,0
+1533,F,White,Not Hispanic,Donna,THOMAS,0,41,Germany,0
+1683,F,Black or African American,Not Hispanic,Rosie,JONES,1,41,China,1
+1740,M,White,Not Hispanic,Philip,JOHNSON,0,41,China,0
+1763,F,White,Not Hispanic,Jane,RODRIGUEZ,1,41,Hong Kong,0
+1767,M,White,Not Hispanic,William,MARTINEZ,1,41,China,1
+37,F,White,Not Hispanic,Sandra,MOORE,1,40,Australia,0
+47,M,White,Not Hispanic,Jerry,WHITE,0,40,Australia,0
+68,F,Black or African American,Not Hispanic,Raymond,RODRIGUEZ,0,40,US,0
+190,F,White,Not Hispanic,Janet,MARTIN,1,40,China,0
+202,F,White,Not Hispanic,Sharon,DAVIS,1,40,Australia,1
+238,F,White,Not Hispanic,Carol,TAYLOR,0,40,US,0
+303,F,White,Hispanic,Diane,THOMAS,0,40,China,0
+354,M,White,Not Hispanic,Ronald,MARTIN,1,40,China,0
+374,M,White,Not Hispanic,George,JACKSON,1,40,Japan,0
+437,M,White,Not Hispanic,Jerry,WILLIAMS,0,40,Sri Lanka,0
+454,F,White,Not Hispanic,Janelle,JONES,1,40,China,0
+584,F,White,Not Hispanic,Wanda,ANDERSON,1,40,Finland,1
+603,M,White,Not Hispanic,Danny,LEE,1,40,Finland,1
+627,M,White,Not Hispanic,Douglas,THOMAS,0,40,China,0
+681,F,Two or more races,Not Hispanic,Jacqueline,MILLER,1,40,India,1
+683,F,White,Not Hispanic,Lynn,RODRIGUEZ,0,40,Sweden,0
+716,M,White,Not Hispanic,Michael,GARCIA,0,40,US,0
+768,F,Black or African American,Not Hispanic,Marilyn,WILSON,1,40,United Arab Emirates,1
+824,F,Two or more races,Not Hispanic,Linda,BROWN,0,40,US,0
+908,F,White,Not Hispanic,Margaret,LEE,0,40,China,0
+945,M,White,Not Hispanic,Bobby,THOMPSON,1,40,China,0
+1035,M,Black or African American,Not Hispanic,George,DAVIS,0,40,Canada,0
+1060,F,White,Not Hispanic,Kathryn,MARTIN,0,40,China,0
+1064,M,Black or African American,Not Hispanic,Hubert,MARTINEZ,0,40,China,0
+1129,M,Black or African American,Not Hispanic,James,MILLER,1,40,China,1
+1145,F,Two or more races,Not Hispanic,Dianne,GARCIA,1,40,Germany,0
+1241,F,White,Hispanic,Sandra,ANDERSON,0,40,China,0
+1265,M,White,Hispanic,William,MOORE,1,40,China,1
+1270,F,Two or more races,Not Hispanic,Patricia,JACKSON,1,40,China,0
+1301,F,White,Not Hispanic,Mary,LEE,0,40,Australia,0
+1335,F,White,Not Hispanic,Joan,MARTIN,0,40,Australia,0
+1584,F,White,Hispanic,Judy,WILSON,0,40,China,0
+1588,F,White,Not Hispanic,Gloria,HERNANDEZ,0,40,Egypt,0
+1592,M,Black or African American,Not Hispanic,Stanley,WILLIAMS,1,40,Taiwan,0
+1624,F,White,Not Hispanic,Ann,WILLIAMS,0,40,Spain,0
+1770,F,Black or African American,Not Hispanic,Lynda,MARTINEZ,0,40,Japan,0
+16,M,White,Not Hispanic,James,JACKSON,0,39,France,0
+39,F,White,Hispanic,Janet,THOMAS,1,39,Canada,1
+72,M,White,Not Hispanic,Ronald,JACKSON,0,39,US,0
+199,M,White,Not Hispanic,August,MARTINEZ,1,39,Philippines,1
+282,M,White,Not Hispanic,Darrell,TAYLOR,0,39,Singapore,0
+325,M,White,Not Hispanic,Harry,WILLIAMS,0,39,US,0
+462,F,White,Not Hispanic,Emma,WHITE,0,39,China,0
+490,F,Black or African American,Not Hispanic,Sue,RODRIGUEZ,0,39,Sri Lanka,0
+526,M,White,Hispanic,Jeffrey,ANDERSON,0,39,Hong Kong,0
+566,M,White,Not Hispanic,Frederick,LOPEZ,0,39,Italy,0
+595,F,White,Not Hispanic,Fanchon,GARCIA,0,39,Sri Lanka,0
+756,F,White,Not Hispanic,Norma,MOORE,1,39,China,1
+834,F,White,Not Hispanic,Elizabeth,DAVIS,0,39,Macau,0
+846,M,White,Not Hispanic,Melvin,JACKSON,0,39,Italy,0
+954,M,White,Hispanic,George,THOMAS,0,39,Others,0
+1085,M,White,Not Hispanic,Harold,THOMAS,0,39,US,0
+1123,M,White,Not Hispanic,John,LEE,1,39,China,1
+1139,M,White,Not Hispanic,William,MARTIN,0,39,US,0
+1149,M,Two or more races,Not Hispanic,Robert,JACKSON,0,39,Vietnam,0
+1196,M,White,Not Hispanic,Kenneth,HERNANDEZ,0,39,China,0
+1243,M,White,Hispanic,Robert,MOORE,0,39,China,0
+1314,F,White,Hispanic,Joan,THOMPSON,0,39,China,0
+1318,F,White,Hispanic,Carol,MARTINEZ,0,39,China,0
+1325,F,Black or African American,Not Hispanic,Kathy,DAVIS,0,39,Macau,0
+1337,F,White,Not Hispanic,Jolinda,JACKSON,1,39,China,0
+1390,M,White,Hispanic,Peter,HERNANDEZ,1,39,China,0
+1430,F,Two or more races,Hispanic,Cheryl,THOMPSON,0,39,US,0
+1619,F,White,Not Hispanic,Lois,JONES,0,39,China,0
+1656,M,White,Hispanic,Allyn,RODRIGUEZ,0,39,China,0
+1658,M,White,Hispanic,George,THOMAS,0,39,China,0
+1719,M,Two or more races,Not Hispanic,Timothy,TAYLOR,0,39,China,0
+1783,M,White,Not Hispanic,Michael,THOMAS,1,39,China,1
+98,M,White,Hispanic,Homer,MARTIN,0,38,US,0
+108,M,White,Not Hispanic,William,WHITE,0,38,US,0
+302,F,White,Not Hispanic,Marla,JACKSON,0,38,China,0
+568,F,White,Not Hispanic,Beverly,DAVIS,1,38,Finland,0
+598,F,White,Not Hispanic,Paula,JACKSON,1,38,Nepal,0
+662,F,White,Hispanic,Lynn,RODRIGUEZ,1,38,Japan,0
+702,F,White,Not Hispanic,Carolyn,MILLER,1,38,US,1
+727,M,White,Not Hispanic,Henry,HERNANDEZ,0,38,Singapore,0
+733,F,White,Not Hispanic,Beverly,ANDERSON,1,38,China,0
+764,M,White,Hispanic,John,TAYLOR,0,38,United Arab Emirates,0
+778,F,White,Not Hispanic,Sharon,LEE,0,38,Australia,0
+818,F,Black or African American,Not Hispanic,Patricia,GARCIA,0,38,Belgium,0
+996,F,Black or African American,Not Hispanic,Virginia,MARTINEZ,1,38,United Arab Emirates,1
+1025,F,White,Not Hispanic,Pearl,WILSON,0,38,South Korea,0
+1039,M,White,Hispanic,James,MOORE,0,38,China,0
+1073,F,White,Not Hispanic,Beth,LOPEZ,1,38,Japan,1
+1127,F,Black or African American,Not Hispanic,Mary,MARTINEZ,0,38,China,0
+1134,F,Black or African American,Not Hispanic,Susan,WILSON,1,38,China,1
+1226,F,White,Not Hispanic,Emma,WHITE,1,38,China,0
+1297,F,White,Not Hispanic,Sharon,MOORE,0,38,South Korea,0
+1336,M,White,Not Hispanic,Samuel,WHITE,0,38,China,0
+1400,M,White,Not Hispanic,Allan,BROWN,1,38,China,0
+1404,F,Black or African American,Hispanic,Shirley,JACKSON,1,38,China,1
+1441,F,White,Not Hispanic,Evelyn,WHITE,1,38,Australia,0
+1448,F,White,Not Hispanic,Paulette,TAYLOR,0,38,US,0
+1479,M,White,Not Hispanic,Douglas,MARTIN,0,38,US,0
+1481,F,White,Not Hispanic,Joyce,JACKSON,0,38,Australia,0
+1503,F,White,Not Hispanic,Carolyn,LEE,0,38,South Korea,0
+1558,M,White,Not Hispanic,Charles,BROWN,0,38,China,0
+1564,M,Black or African American,Not Hispanic,Dennis,DAVIS,0,38,Hong Kong,0
+1714,M,White,Hispanic,Billie,THOMPSON,0,38,China,0
+1722,M,White,Hispanic,William,RODRIGUEZ,0,38,Japan,0
+21,M,White,Not Hispanic,Raymond,MOORE,1,37,China,1
+30,M,White,Hispanic,William,JACKSON,0,37,China,0
+51,M,White,Not Hispanic,Ronald,WHITE,1,37,Canada,1
+116,F,White,Not Hispanic,Catherine,GARCIA,1,37,Spain,0
+171,F,White,Not Hispanic,Dian,DAVIS,0,37,China,0
+183,F,White,Not Hispanic,Linda,WILLIAMS,0,37,China,0
+198,F,White,Not Hispanic,Josephine,TAYLOR,1,37,Singapore,0
+206,M,Asian,Not Hispanic,Manuel,GREEN,0,37,China,0
+209,M,White,Not Hispanic,Malcolm,JACKSON,1,37,China,0
+214,M,White,Not Hispanic,Claude,WILLIAMS,1,37,China,1
+260,F,White,Not Hispanic,Minnie,MARTIN,0,37,China,0
+289,M,Black or African American,Hispanic,Carroll,THOMAS,0,37,China,0
+293,F,White,Not Hispanic,Evelyn,LEE,1,37,China,0
+375,M,Black or African American,Not Hispanic,Robert,GARCIA,0,37,Thailand,0
+385,M,White,Not Hispanic,Rupert,MARTIN,0,37,Ivory Coast,0
+562,M,Asian,Not Hispanic,Jeffrey,WALKER,1,37,India,1
+592,M,White,Not Hispanic,Albert,JACKSON,1,37,Cambodia,1
+600,M,White,Not Hispanic,George,LEE,1,37,Finland,1
+657,M,White,Hispanic,James,ANDERSON,0,37,China,0
+698,F,White,Not Hispanic,Donna,JACKSON,1,37,Australia,1
+801,M,White,Not Hispanic,Daniel,WHITE,0,37,US,0
+810,M,White,Not Hispanic,Lloyd,WHITE,1,37,Canada,0
+943,M,White,Hispanic,Jim,MOORE,1,37,China,0
+957,M,White,Not Hispanic,Phillip,JACKSON,1,37,UK,1
+973,F,White,Not Hispanic,Barbara,MARTINEZ,1,37,China,0
+1003,M,White,Not Hispanic,Sammy,THOMPSON,1,37,China,1
+1036,M,White,Hispanic,John,MARTIN,0,37,UK,0
+1054,F,Black or African American,Not Hispanic,Cheryl,DAVIS,1,37,China,0
+1214,M,White,Hispanic,Thomas,RODRIGUEZ,0,37,Belgium,0
+1239,M,White,Not Hispanic,Charles,RODRIGUEZ,0,37,China,0
+1282,F,Black or African American,Not Hispanic,Laura,WILSON,0,37,China,0
+1426,F,White,Not Hispanic,Diane,WILSON,1,37,US,1
+1496,M,White,Not Hispanic,Gary,WILSON,0,37,Cambodia,0
+1574,F,White,Not Hispanic,Beverly,LOPEZ,0,37,China,0
+1585,F,White,Not Hispanic,Phyllis,MOORE,1,37,China,0
+1610,M,White,Not Hispanic,Benjamen,THOMPSON,0,37,China,0
+1613,M,White,Hispanic,Charles,MARTIN,0,37,China,0
+1666,M,White,Hispanic,John,THOMAS,0,37,China,0
+1742,F,White,Not Hispanic,Julie,WILSON,0,37,China,0
+1752,M,White,Not Hispanic,Bernard,JACKSON,0,37,China,0
+170,F,White,Not Hispanic,Vernette,JACKSON,1,36,China,1
+201,F,White,Hispanic,Lorraine,MARTIN,0,36,Vietnam,0
+227,M,White,Hispanic,Nicholas,ANDERSON,0,36,China,0
+252,M,White,Not Hispanic,Ronald,RODRIGUEZ,0,36,China,0
+279,M,White,Not Hispanic,Carl,MARTINEZ,1,36,Japan,1
+286,M,White,Not Hispanic,Dennis,MOORE,0,36,Nepal,0
+288,M,Asian,Not Hispanic,George,SANCHEZ,0,36,China,0
+329,F,White,Not Hispanic,Pamela,ANDERSON,1,36,South Korea,0
+363,M,White,Not Hispanic,Richard,LEE,0,36,Hong Kong,0
+431,M,White,Not Hispanic,Jan,RODRIGUEZ,0,36,France,0
+444,M,White,Not Hispanic,Donald,LOPEZ,1,36,China,0
+492,M,White,Not Hispanic,Joseph,GARCIA,0,36,Australia,0
+502,F,Asian,Not Hispanic,Renia,GREEN,0,36,China,0
+609,M,White,Hispanic,Roy,MARTINEZ,0,36,Thailand,0
+621,M,Black or African American,Not Hispanic,Dennis,GARCIA,1,36,Russia,0
+769,M,White,Hispanic,Charles,MOORE,0,36,India,0
+855,F,White,Hispanic,Sharon,JACKSON,1,36,United Arab Emirates,0
+1010,M,White,Not Hispanic,Donald,BROWN,1,36,China,0
+1043,F,White,Not Hispanic,Gail,LEE,0,36,China,0
+1056,M,White,Not Hispanic,James,THOMPSON,0,36,China,0
+1069,F,White,Not Hispanic,Mary,WHITE,1,36,China,1
+1237,M,Black or African American,Not Hispanic,William,BROWN,0,36,China,0
+1285,F,White,Not Hispanic,Roxann,WHITE,0,36,US,0
+1396,F,White,Not Hispanic,Joann,TAYLOR,1,36,China,0
+1495,F,White,Not Hispanic,Karol,LOPEZ,0,36,Philippines,0
+1499,M,Asian,Not Hispanic,Earl,ALLEN,0,36,Philippines,0
+1607,F,White,Not Hispanic,Joyce,LEE,1,36,China,0
+33,F,Asian,Not Hispanic,Marilyn,TAYLOR,1,35,China,1
+43,F,Black or African American,Not Hispanic,Emily,JONES,0,35,Australia,0
+71,M,White,Not Hispanic,Johnny,WHITE,0,35,US,0
+85,M,Black or African American,Not Hispanic,Walter,DAVIS,0,35,US,0
+110,M,White,Not Hispanic,Richard,MOORE,1,35,China,1
+223,M,White,Not Hispanic,David,ANDERSON,1,35,China,1
+232,M,White,Not Hispanic,James,THOMAS,0,35,China,0
+318,F,White,Not Hispanic,Donna,WHITE,1,35,Macau,1
+336,M,White,Hispanic,Donald,THOMPSON,1,35,Canada,1
+386,M,Black or African American,Not Hispanic,George,WILLIAMS,0,35,Australia,0
+524,M,White,Not Hispanic,John,THOMPSON,1,35,China,0
+602,M,American Indian and Alaska Native,Not Hispanic,Harold,JONES,0,35,Cambodia,0
+608,M,White,Not Hispanic,Douglas,TAYLOR,0,35,Thailand,0
+707,F,White,Not Hispanic,Lillian,RODRIGUEZ,0,35,US,0
+718,M,White,Hispanic,Charles,THOMPSON,1,35,US,1
+874,M,White,Not Hispanic,Terry,ANDERSON,1,35,Taiwan,0
+907,F,White,Not Hispanic,Barbara,WILSON,0,35,China,0
+1068,M,White,Not Hispanic,Dan,MOORE,1,35,Vietnam,0
+1157,M,White,Not Hispanic,Duane,GARCIA,0,35,India,0
+1167,M,White,Not Hispanic,Dewey,THOMPSON,1,35,Canada,0
+1224,M,White,Not Hispanic,Jerry,LEE,0,35,China,0
+1258,M,White,Hispanic,Eric,MOORE,1,35,China,0
+1288,M,White,Not Hispanic,Richard,MOORE,0,35,Vietnam,0
+1331,F,White,Not Hispanic,Barbara,MARTINEZ,0,35,China,0
+1384,M,White,Not Hispanic,Michael,THOMPSON,0,35,United Arab Emirates,0
+1571,M,Black or African American,Not Hispanic,James,DAVIS,0,35,China,0
+1625,F,Black or African American,Not Hispanic,Barbara,WILSON,0,35,Spain,0
+1697,F,White,Not Hispanic,Susan,RODRIGUEZ,0,35,China,0
+1747,M,White,Hispanic,Edward,JACKSON,1,35,China,0
+7,F,White,Not Hispanic,Harriet,SMITH,1,34,France,0
+19,M,White,Not Hispanic,George,HERNANDEZ,1,34,France,0
+54,F,White,Hispanic,Willetta,HERNANDEZ,1,34,Canada,0
+221,M,White,Not Hispanic,Edward,WILSON,0,34,China,0
+308,M,White,Not Hispanic,Jimmy,MARTIN,0,34,China,0
+333,F,White,Not Hispanic,Karen,MARTIN,0,34,Australia,0
+346,F,White,Hispanic,Sheryl,ANDERSON,1,34,China,0
+362,F,White,Not Hispanic,Yvonne,HERNANDEZ,1,34,China,1
+412,M,Black or African American,Not Hispanic,Richard,DAVIS,0,34,China,0
+616,M,White,Not Hispanic,Charles,MILLER,1,34,Russia,0
+964,M,Black or African American,Not Hispanic,Dixie,JONES,1,34,China,1
+1001,F,White,Not Hispanic,Paulette,MARTIN,1,34,China,1
+1004,F,White,Not Hispanic,Susan,LOPEZ,0,34,China,0
+1046,F,White,Not Hispanic,Cherylene,THOMPSON,1,34,China,1
+1076,F,White,Not Hispanic,Debra,GARCIA,0,34,China,0
+1102,F,White,Not Hispanic,Barbara,THOMAS,1,34,China,1
+1205,F,White,Not Hispanic,Della,ANDERSON,1,34,Taiwan,1
+1326,M,Black or African American,Not Hispanic,Ronald,BROWN,1,34,China,0
+1379,F,White,Not Hispanic,Leila,DAVIS,0,34,UK,0
+1406,M,White,Not Hispanic,Owen,MILLER,1,34,China,1
+1422,M,White,Hispanic,Joseph,ANDERSON,0,34,Sweden,0
+1470,M,White,Not Hispanic,James,THOMAS,0,34,Sri Lanka,0
+1692,M,White,Not Hispanic,Paul,MOORE,0,34,China,0
+1743,M,White,Not Hispanic,Robert,LOPEZ,0,34,China,0
+86,F,White,Not Hispanic,Christine,JACKSON,0,33,US,0
+122,M,White,Not Hispanic,Ronald,THOMAS,1,33,China,1
+294,F,White,Hispanic,Elizabeth,HERNANDEZ,1,33,China,1
+316,M,White,Not Hispanic,Robert,HERNANDEZ,0,33,China,0
+345,M,White,Not Hispanic,Alan,WHITE,1,33,China,0
+460,M,White,Hispanic,John,WILSON,0,33,China,0
+477,F,White,Hispanic,Laurie,JACKSON,0,33,US,0
+522,M,Black or African American,Not Hispanic,Max,GARCIA,0,33,China,0
+578,F,White,Hispanic,Dovie,THOMPSON,0,33,Cambodia,0
+581,F,White,Not Hispanic,Deanna,RODRIGUEZ,1,33,Sri Lanka,1
+650,F,American Indian and Alaska Native,Not Hispanic,Charlotte,DAVIS,1,33,China,0
+713,M,White,Hispanic,James,MARTINEZ,0,33,US,0
+809,M,Black or African American,Not Hispanic,Larry,MARTINEZ,0,33,Canada,0
+811,F,White,Not Hispanic,Susan,DAVIS,0,33,Canada,0
+815,M,White,Hispanic,Joe,MOORE,0,33,Canada,0
+817,M,Black or African American,Not Hispanic,Sam,RODRIGUEZ,1,33,Belgium,1
+837,M,White,Not Hispanic,James,GARCIA,0,33,Canada,0
+875,F,White,Not Hispanic,Marjorie,JACKSON,1,33,Taiwan,1
+986,M,White,Not Hispanic,Jesse,WHITE,0,33,China,0
+1024,M,White,Not Hispanic,George,ANDERSON,1,33,Macau,0
+1059,M,White,Not Hispanic,Richard,JONES,0,33,China,0
+1235,M,White,Hispanic,Daniel,JACKSON,1,33,China,1
+1330,M,White,Hispanic,James,MARTIN,0,33,China,0
+1345,M,White,Hispanic,James,WILSON,1,33,China,0
+1355,F,White,Not Hispanic,Karen,JOHNSON,0,33,China,0
+1440,F,White,Not Hispanic,Brenda,TAYLOR,0,33,Australia,0
+1442,F,White,Not Hispanic,Laurie,THOMAS,1,33,Australia,0
+1515,M,White,Not Hispanic,Thomas,JACKSON,0,33,Canada,0
+1529,F,Black or African American,Not Hispanic,Jean,MILLER,1,33,Macau,0
+1570,F,Asian,Not Hispanic,Linda,ROBINSON,0,33,China,0
+1611,F,Black or African American,Not Hispanic,Georgiann,GARCIA,1,33,China,1
+1627,F,White,Not Hispanic,Carolyn,MARTINEZ,1,33,France,1
+1715,F,White,Not Hispanic,Linda,ANDERSON,1,33,Hong Kong,1
+1718,M,White,Not Hispanic,Burton,HERNANDEZ,0,33,South Korea,0
+1761,M,White,Not Hispanic,Ralph,LOPEZ,0,33,Taiwan,0
+6,F,White,Not Hispanic,Jane,JACKSON,0,32,China,0
+35,M,White,Not Hispanic,Walter,DAVIS,1,32,China,1
+88,F,Black or African American,Hispanic,Eva,ANDERSON,1,32,US,1
+99,M,Asian,Not Hispanic,Larry,GONZALEZ,0,32,US,0
+176,M,Asian,Not Hispanic,Edgar,ALLEN,0,32,China,0
+249,F,White,Not Hispanic,Judy,LOPEZ,1,32,China,0
+313,M,White,Not Hispanic,Pablo,ANDERSON,1,32,China,1
+633,M,White,Hispanic,Danny,RODRIGUEZ,1,32,China,1
+719,M,White,Hispanic,Gary,MILLER,0,32,China,0
+783,M,White,Not Hispanic,Robert,LEE,1,32,Australia,1
+865,F,White,Not Hispanic,Patricia,ANDERSON,0,32,US,0
+949,M,White,Not Hispanic,Donald,MILLER,1,32,China,1
+999,F,White,Not Hispanic,Joann,DAVIS,0,32,China,0
+1061,F,White,Hispanic,Lydia,WILSON,0,32,China,0
+1166,M,Black or African American,Not Hispanic,John,RODRIGUEZ,0,32,Canada,0
+1233,M,White,Not Hispanic,Jimmy,GARCIA,1,32,China,1
+1289,F,White,Not Hispanic,Elizabeth,MARTIN,1,32,Vietnam,1
+1315,M,White,Hispanic,Jimmie,TAYLOR,0,32,China,0
+1569,M,Black or African American,Not Hispanic,Louis,WILSON,0,32,China,0
+1647,M,White,Not Hispanic,Charles,HERNANDEZ,0,32,China,0
+1677,F,American Indian and Alaska Native,Hispanic,Rosemary,THOMAS,0,32,United Arab Emirates,0
+1681,F,White,Hispanic,Elizabeth,HERNANDEZ,1,32,China,1
+3,F,White,Not Hispanic,Carolyn,MARTINEZ,1,31,China,1
+12,M,White,Hispanic,Walter,MARTIN,0,31,China,0
+53,F,White,Not Hispanic,Patricia,JONES,1,31,Australia,0
+106,F,White,Hispanic,Ruth,THOMPSON,1,31,US,0
+130,F,White,Hispanic,Cheryl,MARTINEZ,1,31,China,0
+174,M,Asian,Not Hispanic,Paul,ALLEN,0,31,China,0
+332,M,White,Not Hispanic,Loy,ANDERSON,0,31,France,0
+458,M,White,Hispanic,William,TAYLOR,0,31,China,0
+470,M,Asian,Not Hispanic,Jerry,ALLEN,1,31,Hong Kong,1
+508,F,White,Not Hispanic,Claudia,THOMAS,1,31,China,1
+529,M,White,Not Hispanic,Raymond,WILLIAMS,1,31,Macau,0
+537,F,White,Not Hispanic,Alyson,LEE,0,31,South Korea,0
+559,F,White,Not Hispanic,Sharon,MILLER,0,31,Italy,0
+572,F,Black or African American,Not Hispanic,Loretta,DAVIS,1,31,Italy,0
+618,F,White,Hispanic,Mary,MARTIN,1,31,Russia,1
+699,M,White,Not Hispanic,Samuel,WILSON,0,31,US,0
+722,F,White,Hispanic,Sharyn,MARTINEZ,1,31,China,0
+726,F,White,Not Hispanic,Elissa,THOMPSON,1,31,China,0
+840,M,White,Not Hispanic,Jerry,RODRIGUEZ,1,31,Canada,1
+849,M,White,Not Hispanic,Benton,MILLER,1,31,UK,0
+867,F,White,Not Hispanic,Carolyn,MARTIN,0,31,US,0
+900,M,Two or more races,Not Hispanic,William,MARTINEZ,1,31,China,1
+994,M,White,Not Hispanic,Tyrone,TAYLOR,0,31,China,0
+1131,F,White,Not Hispanic,Maryann,MARTINEZ,1,31,China,1
+1304,M,Black or African American,Not Hispanic,Lawrence,RODRIGUEZ,0,31,China,0
+1334,M,White,Not Hispanic,Larry,HERNANDEZ,0,31,Australia,0
+1471,F,White,Not Hispanic,Lois,MOORE,1,31,Sri Lanka,1
+1494,F,White,Hispanic,Katherine,RODRIGUEZ,1,31,China,0
+1510,M,Black or African American,Not Hispanic,Billy,WILSON,0,31,Russia,0
+1597,M,White,Not Hispanic,Perry,HERNANDEZ,1,31,China,0
+1612,F,White,Not Hispanic,Jennifer,LEE,1,31,China,1
+1629,M,White,Not Hispanic,Robert,MOORE,0,31,France,0
+1741,F,White,Not Hispanic,Cheryl,LEE,0,31,China,0
+92,M,Asian,Not Hispanic,Kenneth,ALLEN,0,30,US,0
+132,M,White,Not Hispanic,Jon,THOMPSON,0,30,China,0
+320,M,White,Not Hispanic,David,SMITH,0,30,China,0
+365,F,Asian,Not Hispanic,Carol,LEE,0,30,China,0
+381,M,White,Not Hispanic,Terry,JONES,1,30,Malaysia,1
+429,M,Black or African American,Not Hispanic,Alfred,GARCIA,0,30,Singapore,0
+533,M,White,Not Hispanic,Joseph,ANDERSON,1,30,US,0
+539,M,White,Not Hispanic,Lynn,MARTIN,1,30,Vietnam,0
+615,M,White,Not Hispanic,Stanley,JACKSON,1,30,Russia,0
+690,M,White,Not Hispanic,Richard,LOPEZ,0,30,Sweden,0
+693,M,White,Not Hispanic,William,TAYLOR,1,30,Sweden,1
+729,M,Black or African American,Not Hispanic,Brian,WILSON,0,30,Singapore,0
+796,M,White,Not Hispanic,Joseph,WILLIAMS,0,30,US,0
+813,F,White,Hispanic,Judith,HERNANDEZ,1,30,Canada,0
+821,M,White,Not Hispanic,Richard,GARCIA,1,30,Belgium,1
+880,F,Black or African American,Not Hispanic,Jane,MARTINEZ,1,30,US,1
+913,F,Black or African American,Not Hispanic,Marie,JONES,0,30,China,0
+928,M,White,Not Hispanic,Harold,SMITH,0,30,Vietnam,0
+936,M,White,Not Hispanic,Oliver,THOMPSON,0,30,China,0
+1011,M,White,Not Hispanic,Jerry,GARCIA,0,30,China,0
+1050,F,White,Not Hispanic,Ella,WILSON,0,30,China,0
+1119,F,White,Not Hispanic,Norma,LOPEZ,1,30,US,0
+1138,M,Black or African American,Not Hispanic,Robert,SMITH,1,30,US,0
+1199,F,White,Not Hispanic,Jean,ANDERSON,1,30,Malaysia,1
+1217,F,White,Not Hispanic,Mae,MARTIN,1,30,Belgium,1
+1221,F,White,Not Hispanic,Carol,TAYLOR,0,30,Australia,0
+1348,F,White,Not Hispanic,Judith,LOPEZ,1,30,China,1
+1353,M,White,Not Hispanic,Richard,ANDERSON,1,30,China,1
+1382,F,White,Not Hispanic,Evelyn,MILLER,0,30,Sri Lanka,0
+1408,F,Two or more races,Not Hispanic,Nancy,MOORE,1,30,China,0
+1439,F,White,Not Hispanic,Patricia,LOPEZ,0,30,US,0
+1486,F,White,Not Hispanic,Mary,GARCIA,0,30,Finland,0
+1593,M,White,Hispanic,Albert,MOORE,1,30,United Arab Emirates,0
+1616,F,Black or African American,Not Hispanic,Barbara,WILLIAMS,0,30,China,0
+1634,F,White,Hispanic,Gloria,ANDERSON,0,30,Malaysia,0
+1638,M,Two or more races,Not Hispanic,Wilbur,THOMPSON,1,30,South Korea,0
+1640,F,White,Hispanic,Joanne,MARTIN,1,30,Others,0
+1641,F,Black or African American,Not Hispanic,Patsy,JONES,1,30,India,0
+1662,M,White,Hispanic,Jeffrey,DAVIS,1,30,China,1
+1664,M,Black or African American,Not Hispanic,Rayford,MARTINEZ,0,30,Macau,0
+1702,F,White,Not Hispanic,Patricia,MARTINEZ,1,30,China,1
+1754,F,White,Not Hispanic,Justine,TAYLOR,1,30,China,0
+23,F,White,Not Hispanic,Susan,ANDERSON,0,29,Sweden,0
+45,F,Asian,Not Hispanic,Sharon,ADAMS,0,29,Canada,0
+60,M,White,Not Hispanic,Junior,TAYLOR,1,29,Japan,1
+80,M,White,Hispanic,Keith,THOMAS,0,29,US,0
+105,F,Black or African American,Not Hispanic,Patricia,MILLER,0,29,US,0
+118,F,White,Hispanic,Annmarie,THOMPSON,0,29,Spain,0
+184,M,Asian,Not Hispanic,Keith,SANCHEZ,0,29,China,0
+368,M,White,Hispanic,Clifford,MOORE,1,29,Taiwan,0
+465,M,White,Not Hispanic,Douglas,THOMAS,0,29,China,0
+510,F,White,Not Hispanic,Sharon,THOMAS,1,29,China,1
+596,F,White,Not Hispanic,Julie,TAYLOR,0,29,Cambodia,0
+687,F,White,Hispanic,Karen,JACKSON,0,29,China,0
+802,F,White,Not Hispanic,Louise,THOMAS,1,29,US,0
+850,M,White,Not Hispanic,Ronald,DAVIS,1,29,Sri Lanka,0
+851,M,White,Not Hispanic,Otto,JONES,1,29,Sri Lanka,0
+921,F,White,Not Hispanic,Ellen,HERNANDEZ,1,29,China,1
+1044,M,White,Not Hispanic,Joe,HERNANDEZ,0,29,China,0
+1066,F,White,Not Hispanic,Sharon,WHITE,1,29,China,1
+1115,F,White,Not Hispanic,Christina,ANDERSON,0,29,US,0
+1177,F,White,Not Hispanic,Rosie,GARCIA,1,29,China,1
+1216,F,Black or African American,Not Hispanic,Jeanne,WILSON,1,29,Belgium,0
+1234,M,Black or African American,Not Hispanic,Harry,MILLER,1,29,China,0
+1266,M,White,Not Hispanic,Conrad,THOMPSON,0,29,Hong Kong,0
+1352,F,White,Hispanic,Rosemary,ANDERSON,1,29,Malaysia,1
+1394,F,Black or African American,Not Hispanic,Vickie,WILSON,0,29,China,0
+1459,F,White,Not Hispanic,Ann,RODRIGUEZ,1,29,US,0
+1568,F,White,Not Hispanic,Leona,THOMAS,1,29,China,0
+1653,M,Black or African American,Not Hispanic,Ronald,JONES,1,29,China,1
+1728,F,White,Not Hispanic,Shirley,JACKSON,0,29,China,0
+1736,F,White,Hispanic,Lois,WILSON,0,29,Canada,0
+26,M,Black or African American,Not Hispanic,Alan,JONES,0,28,Sweden,0
+120,M,White,Not Hispanic,Gary,MARTINEZ,0,28,Spain,0
+189,F,White,Not Hispanic,Marcia,WHITE,1,28,China,1
+240,M,White,Not Hispanic,Clifton,THOMPSON,0,28,Japan,0
+242,M,White,Not Hispanic,James,LOPEZ,0,28,South Korea,0
+243,F,White,Not Hispanic,Maria,THOMAS,1,28,Singapore,1
+426,F,White,Not Hispanic,Noel,ANDERSON,1,28,Japan,0
+439,F,White,Hispanic,Janet,HERNANDEZ,0,28,Australia,0
+506,F,White,Hispanic,Catherine,ANDERSON,0,28,China,0
+542,F,White,Not Hispanic,Mary,JACKSON,0,28,Malaysia,0
+638,F,White,Not Hispanic,Shirleen,THOMPSON,1,28,China,0
+695,M,White,Hispanic,Ronald,MARTINEZ,1,28,Australia,0
+708,M,White,Not Hispanic,Lawrence,HERNANDEZ,0,28,US,0
+774,F,Asian,Not Hispanic,Christine,LEWIS,0,28,Germany,0
+836,F,White,Not Hispanic,Lois,LEE,0,28,Canada,0
+969,M,White,Not Hispanic,Robert,WHITE,0,28,Malaysia,0
+1006,M,White,Not Hispanic,James,MARTIN,0,28,China,0
+1140,M,White,Hispanic,Raymond,GARCIA,0,28,US,0
+1188,M,Black or African American,Not Hispanic,Joseph,JOHNSON,1,28,China,1
+1194,F,White,Not Hispanic,Glenda,THOMPSON,0,28,China,0
+1207,F,White,Not Hispanic,Ramona,LOPEZ,1,28,Singapore,1
+1269,F,White,Not Hispanic,Marsha,MARTIN,0,28,China,0
+1349,M,White,Not Hispanic,John,THOMPSON,1,28,China,1
+1386,F,White,Not Hispanic,Katherine,MARTIN,0,28,France,0
+1405,F,White,Not Hispanic,Martha,JONES,1,28,China,1
+1455,F,White,Not Hispanic,Dorothy,LOPEZ,1,28,Belgium,0
+1460,F,Asian,Not Hispanic,Kathleen,JACKSON,0,28,US,0
+1517,M,White,Not Hispanic,Brian,GARCIA,1,28,UK,1
+1541,F,White,Hispanic,Mary,MARTINEZ,0,28,Australia,0
+1646,M,White,Not Hispanic,Thomas,MARTINEZ,1,28,China,0
+1670,M,White,Not Hispanic,John,THOMAS,1,28,China,0
+1695,F,White,Hispanic,Dawna,JACKSON,0,28,China,0
+1734,M,White,Hispanic,James,WILSON,0,28,Thailand,0
+15,F,American Indian and Alaska Native,Not Hispanic,Cynthia,MILLER,0,27,Nigeria,0
+57,M,White,Not Hispanic,Ronald,LOPEZ,0,27,Australia,0
+64,F,White,Not Hispanic,Elizabeth,LOPEZ,0,27,US,0
+139,F,White,Not Hispanic,Mary,LEE,1,27,China,1
+145,F,American Indian and Alaska Native,Not Hispanic,Maida,HERNANDEZ,1,27,China,1
+163,F,White,Hispanic,Linda,ANDERSON,1,27,China,0
+177,M,White,Not Hispanic,William,MILLER,1,27,China,1
+239,F,White,Not Hispanic,Esther,MOORE,1,27,US,0
+253,M,Black or African American,Not Hispanic,Martin,BROWN,1,27,China,1
+304,F,Black or African American,Not Hispanic,Linda,WILSON,1,27,China,1
+322,M,Black or African American,Not Hispanic,Edwin,GARCIA,1,27,China,0
+378,M,White,Hispanic,Keith,JACKSON,1,27,Vietnam,0
+383,M,White,Not Hispanic,Edward,JOHNSON,1,27,Cambodia,1
+384,F,Two or more races,Hispanic,Jan,TAYLOR,0,27,Sri Lanka,0
+392,M,White,Not Hispanic,Terry,JACKSON,1,27,China,1
+410,F,Black or African American,Not Hispanic,Monica,RODRIGUEZ,0,27,China,0
+448,M,White,Not Hispanic,John,MILLER,0,27,China,0
+473,F,Asian,Not Hispanic,Michele,GONZALEZ,1,27,China,1
+504,F,White,Hispanic,Lillian,MARTIN,0,27,China,0
+509,M,American Indian and Alaska Native,Hispanic,George,RODRIGUEZ,0,27,China,0
+658,F,White,Not Hispanic,Mary,TAYLOR,0,27,US,0
+659,M,White,Not Hispanic,Hugh,LEE,0,27,US,0
+680,M,White,Not Hispanic,Richard,THOMPSON,1,27,Philippines,1
+694,M,Black or African American,Not Hispanic,Harry,MILLER,1,27,Sweden,0
+697,M,White,Not Hispanic,Ronald,WILSON,1,27,Australia,1
+701,F,White,Not Hispanic,Rhonda,MARTINEZ,1,27,US,0
+725,F,American Indian and Alaska Native,Not Hispanic,Patricia,WILSON,1,27,China,0
+779,F,White,Hispanic,Dianne,MOORE,0,27,Australia,0
+794,M,White,Not Hispanic,Victor,THOMAS,0,27,Hong Kong,0
+814,M,White,Not Hispanic,Donald,WHITE,0,27,Canada,0
+870,F,White,Not Hispanic,Judith,RODRIGUEZ,0,27,China,0
+877,F,White,Not Hispanic,Tania,JACKSON,0,27,US,0
+896,F,White,Not Hispanic,Linda,WILSON,0,27,China,0
+910,F,White,Not Hispanic,Diane,THOMAS,1,27,China,0
+922,M,White,Not Hispanic,Billy,MARTINEZ,1,27,Singapore,1
+967,F,White,Not Hispanic,Mary,WILSON,0,27,Japan,0
+970,F,White,Not Hispanic,Jacqueline,THOMAS,0,27,Malaysia,0
+1015,M,White,Hispanic,Charles,MARTIN,1,27,Others,0
+1021,M,White,Not Hispanic,James,JACKSON,0,27,Cambodia,0
+1033,F,White,Hispanic,Ronna,MARTINEZ,0,27,France,0
+1084,M,White,Not Hispanic,Alvin,WILLIAMS,0,27,India,0
+1261,F,White,Not Hispanic,Mary,WILLIAMS,0,27,China,0
+1273,F,White,Not Hispanic,Priscilla,JACKSON,1,27,China,0
+1277,F,White,Not Hispanic,Lee,WILLIAMS,0,27,China,0
+1308,F,White,Not Hispanic,Vickie,THOMPSON,1,27,China,1
+1403,F,White,Not Hispanic,Beverly,WHITE,1,27,China,0
+1438,F,White,Not Hispanic,Jenny,JACKSON,0,27,US,0
+1446,M,White,Not Hispanic,Robert,LOPEZ,1,27,US,0
+1458,M,White,Not Hispanic,Howard,JACKSON,0,27,US,0
+1530,F,White,Not Hispanic,Marian,DAVIS,1,27,Macau,1
+59,F,Black or African American,Not Hispanic,Janice,WILSON,1,26,Japan,0
+166,F,White,Not Hispanic,Peggy,RODRIGUEZ,1,26,China,1
+168,M,White,Not Hispanic,Donald,LOPEZ,1,26,China,0
+247,M,White,Not Hispanic,Bob,WHITE,0,26,China,0
+511,F,White,Hispanic,Nettie,THOMAS,0,26,China,0
+553,M,White,Hispanic,Jimmie,HERNANDEZ,0,26,Philippines,0
+585,M,White,Not Hispanic,Gary,RODRIGUEZ,0,26,Nepal,0
+610,M,White,Hispanic,Joseph,HERNANDEZ,1,26,Taiwan,1
+634,F,White,Not Hispanic,Barbara,MOORE,0,26,China,0
+642,F,White,Not Hispanic,Marianne,LEE,0,26,China,0
+655,F,White,Not Hispanic,Pearlean,MOORE,1,26,China,1
+666,F,White,Hispanic,Carrie,DAVIS,1,26,Vietnam,1
+676,F,White,Not Hispanic,Evan,MARTIN,1,26,Australia,0
+804,M,White,Not Hispanic,Bradford,LOPEZ,1,26,US,0
+832,M,White,Not Hispanic,Jack,WILSON,1,26,Australia,0
+863,M,White,Hispanic,Arnold,MOORE,0,26,Germany,0
+876,F,White,Not Hispanic,Roseann,THOMPSON,0,26,China,0
+902,M,White,Not Hispanic,Max,LOPEZ,1,26,China,1
+919,M,White,Not Hispanic,Tom,JONES,0,26,China,0
+920,F,White,Hispanic,Carol,MARTINEZ,1,26,China,1
+951,M,White,Not Hispanic,David,MARTINEZ,0,26,China,0
+1053,F,Black or African American,Not Hispanic,Christine,JONES,1,26,China,0
+1086,M,White,Hispanic,Charles,GARCIA,1,26,China,1
+1144,F,White,Not Hispanic,Christine,TAYLOR,0,26,China,0
+1209,M,Black or African American,Not Hispanic,Carmine,DAVIS,0,26,Thailand,0
+1264,M,White,Not Hispanic,David,THOMPSON,1,26,China,0
+1275,M,White,Not Hispanic,William,LEE,0,26,Malaysia,0
+1305,F,White,Not Hispanic,Linda,MARTINEZ,1,26,China,1
+1427,M,Black or African American,Not Hispanic,Danny,JOHNSON,0,26,US,0
+1504,M,White,Not Hispanic,Raymond,GARCIA,1,26,Russia,0
+1534,M,White,Hispanic,Willie,MARTINEZ,0,26,Germany,0
+1565,M,White,Hispanic,Otis,JONES,1,26,China,0
+1576,M,White,Not Hispanic,James,THOMPSON,1,26,China,0
+1648,F,White,Not Hispanic,Doris,MARTIN,0,26,China,0
+84,F,White,Not Hispanic,Zelda,THOMAS,0,25,US,0
+191,F,White,Not Hispanic,Jonnie,MOORE,1,25,US,0
+200,M,White,Hispanic,Robert,GARCIA,0,25,Malaysia,0
+245,M,White,Not Hispanic,Laurence,GARCIA,1,25,France,1
+443,M,White,Not Hispanic,John,RODRIGUEZ,0,25,China,0
+466,F,White,Not Hispanic,Kathleen,THOMPSON,1,25,China,0
+485,F,White,Hispanic,Irma,MARTINEZ,0,25,Nepal,0
+486,M,White,Not Hispanic,Curtis,MARTIN,0,25,Malaysia,0
+561,F,White,Not Hispanic,Pearline,WHITE,0,25,Finland,0
+647,M,White,Hispanic,Oscar,MOORE,1,25,China,0
+747,M,Black or African American,Not Hispanic,James,WILLIAMS,1,25,China,0
+797,M,White,Hispanic,Kenny,JACKSON,1,25,US,0
+894,M,White,Not Hispanic,David,GARCIA,0,25,China,0
+939,F,Black or African American,Not Hispanic,Theresa,GARCIA,1,25,China,0
+992,F,Black or African American,Not Hispanic,Diane,JONES,1,25,China,0
+1079,M,White,Not Hispanic,Jack,TAYLOR,1,25,Germany,0
+1091,M,White,Not Hispanic,Jackie,ANDERSON,0,25,China,0
+1130,F,White,Not Hispanic,Lottie,LOPEZ,0,25,China,0
+1292,M,White,Not Hispanic,Ross,LOPEZ,1,25,China,0
+1380,F,White,Not Hispanic,Jo,MARTIN,1,25,China,1
+1392,M,White,Not Hispanic,Thomas,RODRIGUEZ,0,25,China,0
+1412,F,White,Hispanic,Janice,TAYLOR,0,25,Singapore,0
+1454,M,White,Not Hispanic,Daniel,LEE,0,25,Canada,0
+1469,F,White,Not Hispanic,Jill,RODRIGUEZ,1,25,Sri Lanka,1
+1472,F,White,Not Hispanic,Georgette,ANDERSON,1,25,Sri Lanka,1
+1473,M,White,Not Hispanic,Robert,JACKSON,0,25,US,0
+1478,F,White,Not Hispanic,Judy,THOMAS,1,25,US,0
+1550,M,White,Not Hispanic,John,LEE,1,25,US,1
+1583,F,White,Hispanic,Vicki,TAYLOR,0,25,China,0
+1599,F,White,Not Hispanic,Brenda,WHITE,0,25,China,0
+1626,F,White,Not Hispanic,Barbara,HERNANDEZ,0,25,Japan,0
+1698,M,White,Not Hispanic,Denis,LOPEZ,1,25,China,1
+1764,M,White,Not Hispanic,Glenn,LOPEZ,0,25,China,0
+62,M,White,Not Hispanic,Donnie,HERNANDEZ,1,24,US,0
+100,M,White,Not Hispanic,Philip,THOMAS,1,24,US,1
+131,F,White,Not Hispanic,Linda,THOMPSON,1,24,China,0
+167,M,White,Not Hispanic,Henry,THOMAS,1,24,China,1
+178,M,White,Hispanic,Nathaniel,HERNANDEZ,1,24,China,1
+225,F,Black or African American,Not Hispanic,Teresa,GARCIA,0,24,China,0
+251,M,White,Hispanic,Roger,ANDERSON,1,24,China,0
+277,M,White,Not Hispanic,Johnnie,TAYLOR,0,24,US,0
+298,M,White,Not Hispanic,Charles,JONES,1,24,China,0
+319,F,White,Not Hispanic,Anne,LOPEZ,1,24,China,1
+341,M,White,Not Hispanic,Bruce,BROWN,1,24,China,1
+343,M,White,Not Hispanic,Franklin,MARTINEZ,1,24,China,1
+377,M,White,Not Hispanic,Stephen,MOORE,1,24,Singapore,1
+390,M,White,Not Hispanic,Jerry,WHITE,0,24,China,0
+414,F,White,Not Hispanic,Betty,DAVIS,0,24,China,0
+495,M,White,Not Hispanic,William,HERNANDEZ,1,24,Finland,1
+530,F,White,Not Hispanic,Sharon,THOMAS,1,24,China,0
+575,M,White,Not Hispanic,Wayne,WHITE,1,24,Nepal,1
+582,F,White,Not Hispanic,Judy,DAVIS,1,24,Italy,1
+714,M,White,Not Hispanic,Ross,LEE,1,24,US,1
+717,M,White,Hispanic,Lenard,JACKSON,0,24,US,0
+742,F,White,Not Hispanic,Sandra,THOMPSON,0,24,South Korea,0
+822,F,White,Not Hispanic,Amy,HERNANDEZ,0,24,US,0
+968,F,White,Not Hispanic,Helen,MARTIN,0,24,China,0
+980,M,White,Not Hispanic,Carles,ANDERSON,1,24,Thailand,0
+1012,F,White,Not Hispanic,Roberta,LOPEZ,1,24,China,0
+1163,F,White,Hispanic,Barbara,WILSON,1,24,Canada,1
+1223,M,White,Not Hispanic,Eugene,MOORE,0,24,China,0
+1339,M,White,Not Hispanic,Richard,WHITE,1,24,Singapore,0
+1416,F,White,Not Hispanic,Sharon,JACKSON,0,24,China,0
+1425,M,Black or African American,Not Hispanic,Francis,MILLER,0,24,US,0
+1512,F,White,Not Hispanic,Renee,THOMPSON,0,24,France,0
+1543,M,White,Not Hispanic,Milton,ANDERSON,0,24,Australia,0
+1553,M,White,Hispanic,James,JACKSON,1,24,China,1
+1602,F,White,Not Hispanic,Dianne,JONES,0,24,China,0
+1636,M,White,Hispanic,William,MARTINEZ,1,24,Malaysia,1
+1687,F,White,Not Hispanic,Ellen,LOPEZ,0,24,China,0
+1,F,White,Not Hispanic,Elizabeth,BROWN,0,23,France,0
+56,F,White,Not Hispanic,Linda,LOPEZ,0,23,Australia,0
+75,M,White,Not Hispanic,David,LEE,1,23,US,1
+146,F,White,Not Hispanic,Cecilia,LEE,0,23,China,0
+275,F,White,Not Hispanic,Joan,WILSON,0,23,Macau,0
+280,M,White,Not Hispanic,Grady,BROWN,1,23,Thailand,1
+290,M,Asian,Not Hispanic,Marshall,SCOTT,0,23,China,0
+373,M,White,Not Hispanic,Clarence,THOMPSON,1,23,US,0
+432,M,Black or African American,Not Hispanic,Anthony,GARCIA,1,23,Nepal,1
+487,M,White,Hispanic,Gerald,HERNANDEZ,0,23,Canada,0
+518,M,White,Hispanic,Robert,MOORE,0,23,China,0
+711,F,American Indian and Alaska Native,Not Hispanic,Susan,JOHNSON,0,23,US,0
+765,F,White,Not Hispanic,Lora,LOPEZ,1,23,United Arab Emirates,0
+828,M,White,Not Hispanic,Enrico,LEE,0,23,China,0
+860,M,Black or African American,Not Hispanic,Dale,DAVIS,0,23,Thailand,0
+873,M,Black or African American,Not Hispanic,Chauncey,BROWN,1,23,Taiwan,0
+905,F,Asian,Not Hispanic,Johnnie,WALKER,0,23,China,0
+941,F,Black or African American,Not Hispanic,Susan,WILLIAMS,0,23,Hong Kong,0
+976,F,White,Not Hispanic,Ellen,LEE,0,23,Singapore,0
+982,F,Asian,Not Hispanic,Carolyn,SANCHEZ,0,23,Germany,0
+991,F,White,Not Hispanic,Catherine,JONES,1,23,Finland,1
+1020,F,White,Not Hispanic,Kathleen,MOORE,1,23,Philippines,0
+1100,F,White,Not Hispanic,Connie,MARTIN,1,23,China,1
+1113,M,White,Not Hispanic,Walter,LEE,1,23,China,0
+1141,F,White,Hispanic,Magalene,JACKSON,1,23,China,0
+1142,F,White,Not Hispanic,Norma,RODRIGUEZ,1,23,China,0
+1181,M,White,Not Hispanic,Mike,WHITE,0,23,China,0
+1198,M,Black or African American,Not Hispanic,James,JONES,1,23,Macau,0
+1307,F,White,Not Hispanic,Glenna,HERNANDEZ,0,23,China,0
+1356,F,White,Not Hispanic,Lenore,THOMPSON,1,23,China,0
+1367,F,White,Hispanic,Judy,TAYLOR,1,23,China,0
+1399,F,White,Hispanic,Pauline,JACKSON,1,23,China,1
+1535,F,White,Not Hispanic,Patricia,LOPEZ,0,23,China,0
+1536,M,White,Not Hispanic,Keith,JONES,1,23,Thailand,1
+1561,M,White,Hispanic,George,MARTINEZ,1,23,China,0
+1590,F,Asian,Not Hispanic,Mary,NELSON,0,23,China,0
+1639,M,Black or African American,Hispanic,Patrick,THOMAS,0,23,China,0
+1749,F,White,Not Hispanic,Jean,TAYLOR,1,23,China,0
+1759,M,White,Not Hispanic,Odell,MARTIN,1,23,China,1
+1775,F,White,Hispanic,Wilhelmina,DAVIS,1,23,China,0
+5,F,White,Not Hispanic,Patricia,BROWN,1,22,UK,1
+67,F,White,Not Hispanic,Candace,HERNANDEZ,1,22,US,0
+74,M,White,Not Hispanic,Lawrence,RODRIGUEZ,1,22,US,0
+96,M,White,Not Hispanic,James,LEE,0,22,US,0
+97,M,White,Not Hispanic,Marvin,HERNANDEZ,1,22,US,1
+127,F,Black or African American,Not Hispanic,Catherine,GARCIA,0,22,China,0
+160,F,White,Not Hispanic,Fern,LOPEZ,0,22,China,0
+165,F,White,Hispanic,Lydia,THOMPSON,1,22,China,0
+192,F,White,Not Hispanic,Barbara,THOMPSON,1,22,China,0
+266,F,Two or more races,Hispanic,Rosalyn,RODRIGUEZ,0,22,China,0
+347,M,White,Hispanic,Robert,HERNANDEZ,1,22,China,1
+382,F,White,Not Hispanic,Jeanette,TAYLOR,0,22,Canada,0
+501,F,White,Not Hispanic,Martha,JACKSON,0,22,China,0
+611,M,White,Hispanic,Steven,TAYLOR,1,22,Taiwan,0
+656,M,White,Not Hispanic,Jay,THOMPSON,1,22,Macau,1
+777,M,White,Not Hispanic,Alan,BROWN,0,22,Australia,0
+790,M,White,Not Hispanic,Marvin,HERNANDEZ,0,22,China,0
+895,M,White,Not Hispanic,Jeffrey,WILSON,0,22,China,0
+914,M,Black or African American,Not Hispanic,Frank,ANDERSON,0,22,China,0
+929,F,White,Not Hispanic,Leona,RODRIGUEZ,0,22,China,0
+962,M,White,Not Hispanic,Roger,LEE,1,22,China,0
+984,F,White,Not Hispanic,Winifred,JONES,0,22,China,0
+989,F,White,Not Hispanic,Geraldine,MILLER,0,22,Finland,0
+995,M,White,Hispanic,Bob,RODRIGUEZ,1,22,China,1
+1117,F,White,Hispanic,Catherine,THOMPSON,1,22,US,0
+1148,M,White,Not Hispanic,Thomas,ANDERSON,1,22,Germany,0
+1286,M,Two or more races,Not Hispanic,Willie,WILSON,0,22,US,0
+1309,M,White,Hispanic,Michael,TAYLOR,0,22,China,0
+1332,F,White,Not Hispanic,Judy,RODRIGUEZ,1,22,China,0
+1365,F,Black or African American,Not Hispanic,Nancy,WILSON,1,22,China,0
+1633,F,Asian,Not Hispanic,Paulette,HALL,1,22,South Korea,1
+186,M,White,Hispanic,George,JACKSON,0,21,China,0
+197,F,White,Not Hispanic,Elaine,MARTIN,1,21,South Korea,0
+259,M,White,Not Hispanic,Berry,THOMPSON,0,21,China,0
+283,F,White,Hispanic,Margaret,HERNANDEZ,1,21,Vietnam,0
+285,F,Black or African American,Not Hispanic,Rita,BROWN,0,21,Australia,0
+478,M,White,Not Hispanic,John,MARTIN,0,21,US,0
+489,F,White,Not Hispanic,Linda,THOMAS,0,21,Cambodia,0
+556,F,White,Not Hispanic,Marsha,WHITE,0,21,Malaysia,0
+588,M,White,Not Hispanic,Stephen,ANDERSON,0,21,Cambodia,0
+665,M,White,Not Hispanic,Albert,MOORE,0,21,Singapore,0
+678,F,White,Not Hispanic,Janet,MARTIN,0,21,Finland,0
+793,F,White,Not Hispanic,Bonnie,GARCIA,1,21,Hong Kong,1
+803,F,White,Not Hispanic,Patricia,TAYLOR,1,21,US,0
+843,F,White,Not Hispanic,Flora,JACKSON,1,21,Philippines,1
+915,F,White,Hispanic,Nancy,THOMPSON,1,21,China,0
+1101,M,White,Not Hispanic,Frank,JOHNSON,0,21,China,0
+1321,M,White,Not Hispanic,William,HERNANDEZ,1,21,China,0
+1465,M,White,Not Hispanic,Elmore,JACKSON,0,21,Italy,0
+1468,M,American Indian and Alaska Native,Not Hispanic,Ronald,BROWN,0,21,Italy,0
+1511,M,White,Hispanic,Irving,MOORE,0,21,Nepal,0
+1542,F,White,Hispanic,Francine,RODRIGUEZ,0,21,Australia,0
+1617,F,White,Hispanic,Dorothy,WILSON,1,21,China,0
+1756,M,White,Hispanic,James,JACKSON,1,21,Others,1
+1762,M,Black or African American,Not Hispanic,Roy,MILLER,1,21,China,0
+50,F,White,Hispanic,Doris,THOMPSON,1,20,Australia,0
+90,F,White,Not Hispanic,Ana,TAYLOR,1,20,US,1
+217,F,White,Not Hispanic,Della,JACKSON,0,20,China,0
+405,M,White,Not Hispanic,Anthony,JONES,1,20,China,0
+433,M,White,Hispanic,Thomas,TAYLOR,0,20,Malaysia,0
+493,F,White,Not Hispanic,Paula,THOMPSON,0,20,Australia,0
+544,F,White,Not Hispanic,Blanchie,HERNANDEZ,1,20,Canada,0
+545,F,White,Not Hispanic,Paula,MOORE,0,20,Cambodia,0
+570,F,White,Not Hispanic,Jane,RODRIGUEZ,0,20,Sri Lanka,0
+636,F,White,Not Hispanic,Rosemary,THOMPSON,1,20,China,1
+649,F,White,Not Hispanic,Yolanda,TAYLOR,1,20,China,1
+712,M,White,Not Hispanic,George,GARCIA,0,20,US,0
+767,F,Black or African American,Not Hispanic,Betty,GARCIA,0,20,United Arab Emirates,0
+772,M,White,Hispanic,Thomas,MARTINEZ,0,20,China,0
+812,M,White,Hispanic,Nicholas,MARTINEZ,0,20,Canada,0
+912,F,White,Not Hispanic,Gayle,HERNANDEZ,0,20,China,0
+963,M,White,Not Hispanic,David,MOORE,1,20,China,1
+987,F,White,Not Hispanic,Lois,THOMPSON,0,20,China,0
+1041,M,Asian,Not Hispanic,Daniel,LEWIS,1,20,China,1
+1105,F,White,Not Hispanic,Joyce,DAVIS,1,20,China,0
+1175,F,White,Not Hispanic,Jo,WILLIAMS,0,20,China,0
+1197,M,White,Not Hispanic,Bernard,WHITE,1,20,Macau,1
+1262,F,White,Not Hispanic,Martha,THOMAS,1,20,China,0
+1299,F,White,Hispanic,Joyce,RODRIGUEZ,0,20,Australia,0
+1300,M,White,Not Hispanic,James,MARTINEZ,0,20,Australia,0
+1317,F,White,Not Hispanic,Sandra,LEE,1,20,China,1
+1323,M,White,Not Hispanic,Michael,TAYLOR,0,20,Macau,0
+1497,F,White,Not Hispanic,Sharon,JOHNSON,1,20,Philippines,1
+1727,M,White,Not Hispanic,Adam,HERNANDEZ,0,20,China,0
+8,M,White,Not Hispanic,Clarence,JONES,0,19,UK,0
+41,F,White,Not Hispanic,Geraldine,JACKSON,1,19,Canada,0
+44,M,White,Not Hispanic,Benjamin,LOPEZ,1,19,Canada,1
+61,F,White,Not Hispanic,Sheila,MARTIN,1,19,US,0
+121,M,White,Not Hispanic,James,WILSON,1,19,Spain,1
+246,M,White,Hispanic,Lynn,MARTINEZ,1,19,China,1
+300,F,White,Not Hispanic,Mickey,THOMAS,1,19,China,1
+364,M,American Indian and Alaska Native,Not Hispanic,George,MILLER,1,19,China,0
+445,F,White,Not Hispanic,Alice,MARTINEZ,0,19,China,0
+498,F,Black or African American,Not Hispanic,Doreen,ANDERSON,1,19,China,0
+692,M,Black or African American,Not Hispanic,Dwight,DAVIS,0,19,Sweden,0
+858,M,White,Not Hispanic,Dennis,GARCIA,1,19,France,1
+901,M,White,Not Hispanic,Thomas,HERNANDEZ,0,19,China,0
+942,F,Asian,Not Hispanic,Rita,CLARK,1,19,China,0
+1048,M,White,Not Hispanic,Elmer,MOORE,0,19,China,0
+1065,M,White,Not Hispanic,Sylvester,JACKSON,1,19,China,1
+1067,M,White,Not Hispanic,Reinold,LOPEZ,1,19,US,0
+1096,M,Asian,Not Hispanic,Farrell,KING,1,19,China,1
+1158,M,White,Not Hispanic,Paul,MOORE,0,19,China,0
+1161,M,White,Not Hispanic,William,DAVIS,0,19,China,0
+1191,F,White,Not Hispanic,Ann,TAYLOR,0,19,China,0
+1206,F,White,Not Hispanic,Irene,LEE,1,19,Thailand,0
+1291,M,White,Hispanic,Donald,ANDERSON,0,19,China,0
+1388,M,White,Not Hispanic,Donald,JACKSON,0,19,China,0
+1493,M,White,Not Hispanic,Peter,ANDERSON,0,19,China,0
+1527,F,White,Not Hispanic,Hazel,MILLER,0,19,China,0
+1563,M,White,Not Hispanic,Linda,LOPEZ,1,19,Hong Kong,1
+1578,F,White,Not Hispanic,Carol,MARTIN,0,19,China,0
+1688,M,White,Not Hispanic,Melvin,THOMAS,0,19,Canada,0
+1693,M,White,Not Hispanic,Jonathan,MARTINEZ,0,19,China,0
+1694,F,Black or African American,Not Hispanic,Stephany,DAVIS,1,19,China,1
+1700,F,White,Hispanic,Margaret,MARTIN,1,19,China,1
+1732,M,White,Hispanic,Carl,MOORE,0,19,China,0
+1771,M,Black or African American,Not Hispanic,Michael,MARTINEZ,1,19,Thailand,0
+152,F,White,Hispanic,Arnette,MARTIN,1,18,China,0
+188,F,White,Not Hispanic,Katharine,MILLER,1,18,Taiwan,1
+306,M,White,Not Hispanic,Donald,BROWN,0,18,China,0
+317,F,White,Hispanic,Frances,MARTINEZ,0,18,China,0
+425,F,White,Hispanic,Lorraine,MOORE,1,18,US,1
+461,M,White,Not Hispanic,Richard,WHITE,0,18,China,0
+514,F,White,Not Hispanic,Nancy,MOORE,0,18,China,0
+554,F,White,Hispanic,Carolin,TAYLOR,0,18,India,0
+709,F,White,Not Hispanic,Jean,WILSON,1,18,US,1
+751,M,White,Not Hispanic,James,GARCIA,0,18,Philippines,0
+757,M,White,Not Hispanic,William,HERNANDEZ,1,18,China,0
+770,F,Asian,Not Hispanic,Fernanda,KING,1,18,China,1
+780,M,White,Not Hispanic,Alan,LEE,1,18,Australia,0
+866,F,White,Not Hispanic,Sherry,LOPEZ,0,18,US,0
+1114,F,White,Not Hispanic,Wanda,LEE,1,18,China,1
+1136,M,Black or African American,Hispanic,George,THOMPSON,1,18,US,1
+1164,F,Black or African American,Not Hispanic,Mary,GARCIA,1,18,Canada,1
+1174,M,White,Not Hispanic,James,WHITE,1,18,Canada,1
+1259,M,White,Not Hispanic,Harold,MARTINEZ,1,18,China,0
+1280,F,White,Not Hispanic,Beverly,WILSON,0,18,Singapore,0
+1320,F,White,Not Hispanic,Eva,TAYLOR,0,18,China,0
+1357,F,White,Not Hispanic,Demetria,LOPEZ,0,18,China,0
+1362,F,White,Hispanic,Carol,THOMAS,1,18,China,1
+1377,F,White,Not Hispanic,Ellen,JOHNSON,0,18,Italy,0
+1474,M,White,Not Hispanic,Walker,WHITE,0,18,US,0
+1600,F,White,Not Hispanic,Brenda,RODRIGUEZ,0,18,China,0
+1660,M,White,Not Hispanic,Verlin,LOPEZ,1,18,China,0
+1706,F,White,Not Hispanic,Chyrel,WHITE,1,18,China,1
+1709,M,White,Not Hispanic,James,MOORE,1,18,Singapore,1
+1776,M,White,Not Hispanic,Amos,THOMPSON,0,18,China,0
+4,F,White,Hispanic,Ellen,MARTIN,0,17,France,0
+101,M,White,Hispanic,Michael,TAYLOR,1,17,US,1
+195,M,White,Not Hispanic,John,LEE,0,17,Japan,0
+208,F,White,Not Hispanic,Joycelyn,MOORE,0,17,China,0
+255,F,Asian,Not Hispanic,Margaret,CLARK,0,17,China,0
+314,F,White,Not Hispanic,Scotty,RODRIGUEZ,1,17,China,1
+399,F,White,Not Hispanic,Rosa,ANDERSON,0,17,China,0
+453,M,White,Not Hispanic,Leon,WHITE,1,17,China,0
+491,F,American Indian and Alaska Native,Not Hispanic,Patricia,JONES,0,17,Australia,0
+503,F,White,Not Hispanic,Doris,DAVIS,1,17,China,0
+532,F,White,Not Hispanic,Natalie,THOMPSON,1,17,US,0
+624,F,White,Not Hispanic,Delores,JACKSON,1,17,China,0
+653,F,White,Not Hispanic,Alicia,LOPEZ,0,17,Hong Kong,0
+736,F,White,Not Hispanic,Brenda,THOMPSON,0,17,China,0
+741,M,Asian,Not Hispanic,Theodore,NELSON,1,17,South Korea,1
+791,M,White,Not Hispanic,Hilary,JOHNSON,0,17,China,0
+861,F,White,Hispanic,Elaine,THOMAS,0,17,Others,0
+1082,F,White,Not Hispanic,Dianne,WHITE,1,17,Australia,1
+1204,F,White,Not Hispanic,Minnie,GARCIA,1,17,Taiwan,1
+1213,M,Black or African American,Not Hispanic,Dale,JONES,0,17,Belgium,0
+1393,F,White,Not Hispanic,Virginia,MARTIN,0,17,China,0
+1414,F,White,Not Hispanic,Carolyn,LEE,1,17,China,1
+1477,M,Two or more races,Not Hispanic,Gary,TAYLOR,0,17,US,0
+1509,M,White,Not Hispanic,Donald,MILLER,0,17,Nepal,0
+1637,M,White,Not Hispanic,Ronald,JACKSON,1,17,Singapore,0
+1676,F,White,Not Hispanic,Deborah,GARCIA,1,17,United Arab Emirates,1
+1769,M,White,Hispanic,Dewey,ANDERSON,1,17,UK,1
+79,F,White,Not Hispanic,Elizabeth,ANDERSON,0,16,US,0
+149,M,White,Not Hispanic,Henry,TAYLOR,0,16,China,0
+179,F,White,Not Hispanic,Geraldine,THOMAS,1,16,China,1
+204,M,White,Not Hispanic,Carl,JACKSON,0,16,Brazil,0
+254,F,White,Hispanic,Mary,RODRIGUEZ,1,16,China,0
+274,M,White,Not Hispanic,William,THOMPSON,0,16,Taiwan,0
+301,M,White,Hispanic,Preston,JACKSON,1,16,China,1
+330,M,White,Not Hispanic,Ronnie,GARCIA,1,16,Singapore,0
+348,F,White,Not Hispanic,Gail,JACKSON,1,16,China,0
+397,M,White,Not Hispanic,Thomas,TAYLOR,1,16,China,0
+416,F,White,Not Hispanic,Susan,THOMAS,1,16,China,0
+428,F,White,Not Hispanic,Evelyn,ANDERSON,1,16,South Korea,0
+643,M,White,Not Hispanic,James,WHITE,1,16,China,0
+927,F,Black or African American,Not Hispanic,Evelyn,JOHNSON,0,16,Malaysia,0
+1169,F,White,Not Hispanic,Diane,SMITH,1,16,Canada,1
+1176,M,White,Not Hispanic,Darrel,THOMPSON,1,16,China,1
+1184,M,White,Not Hispanic,John,ANDERSON,0,16,China,0
+1193,M,White,Not Hispanic,John,LOPEZ,1,16,China,1
+1229,M,White,Not Hispanic,George,DAVIS,0,16,China,0
+1240,F,White,Not Hispanic,Cheryl,THOMPSON,1,16,China,0
+1271,F,White,Not Hispanic,Virginia,TAYLOR,1,16,China,1
+1290,M,White,Not Hispanic,Wayne,WHITE,1,16,China,1
+1364,F,White,Hispanic,Dianne,THOMAS,0,16,China,0
+1420,F,White,Not Hispanic,Marilyn,SMITH,1,16,Sweden,0
+1428,M,White,Not Hispanic,Sullivan,RODRIGUEZ,0,16,US,0
+1485,M,White,Not Hispanic,Jackie,ANDERSON,0,16,Spain,0
+1488,F,Black or African American,Not Hispanic,Diana,BROWN,1,16,Finland,0
+1589,F,White,Not Hispanic,Donna,JONES,0,16,Egypt,0
+1682,M,White,Hispanic,Ronnie,THOMPSON,0,16,China,0
+1735,M,White,Not Hispanic,Martin,THOMPSON,0,16,China,0
+82,M,White,Hispanic,Robert,WILSON,1,15,US,0
+113,F,White,Not Hispanic,Bertha,DAVIS,1,15,China,0
+144,M,American Indian and Alaska Native,Not Hispanic,Thomas,JONES,1,15,China,0
+215,M,White,Not Hispanic,David,THOMPSON,1,15,China,0
+244,M,Black or African American,Not Hispanic,Michael,JOHNSON,0,15,Vietnam,0
+256,M,Black or African American,Not Hispanic,Rex,JOHNSON,0,15,China,0
+262,M,White,Not Hispanic,Harold,MOORE,1,15,China,1
+291,M,Asian,Not Hispanic,Thomas,GONZALEZ,0,15,China,0
+370,M,Black or African American,Not Hispanic,Richard,DAVIS,1,15,US,0
+398,M,White,Not Hispanic,James,WHITE,0,15,China,0
+413,M,White,Not Hispanic,Richard,WILLIAMS,1,15,China,1
+440,M,White,Hispanic,James,MARTIN,1,15,Germany,0
+475,F,White,Not Hispanic,Freda,JACKSON,1,15,US,0
+476,M,White,Not Hispanic,Dennis,ANDERSON,1,15,US,0
+480,M,White,Not Hispanic,Richard,GARCIA,0,15,Thailand,0
+500,F,White,Not Hispanic,Diana,THOMPSON,0,15,China,0
+528,M,White,Not Hispanic,Christopher,LOPEZ,0,15,China,0
+619,M,White,Not Hispanic,John,MOORE,1,15,Russia,1
+646,F,White,Not Hispanic,Sandy,SMITH,0,15,China,0
+703,F,White,Not Hispanic,Marie,ANDERSON,0,15,US,0
+881,F,White,Not Hispanic,Harriet,THOMPSON,0,15,US,0
+1005,M,White,Not Hispanic,Robert,JACKSON,0,15,China,0
+1057,F,White,Not Hispanic,Angelyn,ANDERSON,0,15,China,0
+1072,M,Black or African American,Not Hispanic,Martin,WILSON,1,15,Malaysia,1
+1122,M,Black or African American,Not Hispanic,Richard,RODRIGUEZ,1,15,China,0
+1222,F,White,Not Hispanic,Lenora,ANDERSON,1,15,China,1
+1236,M,Two or more races,Not Hispanic,John,MILLER,0,15,China,0
+1324,M,White,Not Hispanic,Thomas,DAVIS,1,15,Macau,0
+1340,M,White,Not Hispanic,Donald,THOMPSON,0,15,South Korea,0
+1369,M,White,Hispanic,John,HERNANDEZ,0,15,China,0
+1462,M,White,Not Hispanic,Bruce,MARTIN,1,15,Canada,1
+1545,M,White,Hispanic,Bruce,THOMPSON,0,15,Australia,0
+1663,M,Asian,Not Hispanic,William,HARRIS,1,15,Macau,0
+1766,F,White,Not Hispanic,Beth,SMITH,1,15,South Korea,0
+46,M,White,Hispanic,Richard,MARTIN,1,14,Australia,1
+135,M,White,Hispanic,William,ANDERSON,0,14,China,0
+159,F,White,Not Hispanic,Lenora,HERNANDEZ,1,14,South Korea,0
+169,M,White,Not Hispanic,Lee,JONES,0,14,China,0
+193,F,White,Not Hispanic,Lorraine,LOPEZ,0,14,China,0
+250,M,Black or African American,Not Hispanic,Thomas,WILSON,1,14,China,1
+273,M,White,Not Hispanic,Joseph,MOORE,0,14,China,0
+312,M,White,Hispanic,Theodore,MARTIN,1,14,China,0
+391,F,White,Not Hispanic,Gloria,LOPEZ,0,14,China,0
+415,M,White,Not Hispanic,Arthur,LEE,0,14,China,0
+451,M,White,Not Hispanic,William,THOMPSON,0,14,China,0
+488,F,White,Not Hispanic,Phyllis,LEE,0,14,Canada,0
+523,F,White,Hispanic,Sandra,HERNANDEZ,1,14,China,1
+527,M,White,Not Hispanic,James,THOMPSON,0,14,Taiwan,0
+538,F,White,Not Hispanic,Wanda,ANDERSON,0,14,Singapore,0
+591,F,Black or African American,Not Hispanic,Sharon,RODRIGUEZ,0,14,Sri Lanka,0
+623,F,White,Not Hispanic,Janie,THOMPSON,1,14,Russia,0
+704,M,White,Not Hispanic,Kenneth,JACKSON,0,14,US,0
+839,F,White,Not Hispanic,Cathy,GARCIA,1,14,Canada,1
+871,F,White,Not Hispanic,Margaret,GARCIA,0,14,Taiwan,0
+887,F,White,Not Hispanic,Patricia,WHITE,0,14,Spain,0
+997,F,White,Not Hispanic,Linda,MARTIN,1,14,United Arab Emirates,1
+1173,F,White,Not Hispanic,Janet,JACKSON,0,14,Canada,0
+1180,M,Black or African American,Not Hispanic,Gary,DAVIS,0,14,China,0
+1219,M,White,Not Hispanic,Donald,LEE,0,14,Japan,0
+1272,F,Black or African American,Not Hispanic,Valerie,GARCIA,1,14,China,0
+1363,M,White,Not Hispanic,Jack,THOMPSON,1,14,China,1
+1415,M,White,Not Hispanic,Ernest,MARTIN,1,14,China,0
+1539,F,White,Not Hispanic,Michelle,MILLER,0,14,Thailand,0
+1582,M,White,Not Hispanic,Benny,DAVIS,1,14,China,0
+1621,M,White,Hispanic,Thomas,TAYLOR,1,14,China,0
+1661,F,White,Not Hispanic,Priscilla,BROWN,0,14,China,0
+1699,M,White,Hispanic,David,THOMPSON,0,14,China,0
+1746,M,White,Not Hispanic,Thomas,LOPEZ,0,14,China,0
+194,F,Asian,Not Hispanic,Patricia,GREEN,0,13,China,0
+211,F,White,Not Hispanic,Barbara,TAYLOR,1,13,China,1
+307,M,White,Not Hispanic,Wesley,MARTIN,1,13,China,0
+326,M,White,Not Hispanic,Alvin,JACKSON,1,13,US,0
+396,M,White,Not Hispanic,Anderson,TAYLOR,1,13,China,0
+547,F,White,Not Hispanic,Judith,WHITE,1,13,Australia,1
+571,F,White,Not Hispanic,Elizabeth,SMITH,0,13,Malaysia,0
+605,M,Black or African American,Not Hispanic,James,BROWN,0,13,Cambodia,0
+744,F,Black or African American,Not Hispanic,Christine,JOHNSON,0,13,China,0
+808,F,White,Hispanic,Donna,JOHNSON,1,13,India,1
+911,F,White,Not Hispanic,Barbara,LEE,0,13,China,0
+944,M,White,Not Hispanic,Conroy,HERNANDEZ,0,13,China,0
+965,F,White,Not Hispanic,Elodia,LEE,0,13,US,0
+1034,F,White,Not Hispanic,Karen,DAVIS,1,13,Canada,0
+1133,M,White,Not Hispanic,Charles,WHITE,1,13,China,1
+1310,M,White,Not Hispanic,Bobby,JACKSON,1,13,China,1
+1311,F,White,Hispanic,Margaret,ANDERSON,1,13,China,1
+1374,F,White,Not Hispanic,Davina,WHITE,0,13,Philippines,0
+1432,M,White,Not Hispanic,Robert,DAVIS,1,13,US,0
+1452,F,White,Hispanic,Joan,JACKSON,1,13,Canada,0
+1500,M,White,Not Hispanic,Kenneth,ANDERSON,1,13,Cambodia,0
+1551,F,White,Not Hispanic,Judith,LOPEZ,0,13,US,0
+1566,F,Two or more races,Not Hispanic,Betty,MARTINEZ,0,13,China,0
+1635,M,White,Not Hispanic,Stanley,LOPEZ,1,13,Malaysia,1
+1712,M,White,Not Hispanic,Sidney,WILLIAMS,0,13,China,0
+1758,F,White,Not Hispanic,Jayne,JONES,1,13,Japan,0
+69,M,White,Not Hispanic,Ronald,THOMPSON,1,12,US,1
+115,F,White,Hispanic,Sharon,ANDERSON,0,12,Spain,0
+151,F,White,Not Hispanic,Dora,WILSON,0,12,China,0
+157,M,Two or more races,Not Hispanic,Allen,ANDERSON,0,12,Japan,0
+187,F,White,Not Hispanic,Norma,MARTIN,1,12,China,1
+264,M,White,Not Hispanic,Bob,THOMPSON,1,12,China,1
+309,F,White,Not Hispanic,Evelyn,BROWN,1,12,China,0
+389,F,American Indian and Alaska Native,Hispanic,Maria,HERNANDEZ,0,12,China,0
+583,M,White,Not Hispanic,Harold,THOMAS,1,12,Cambodia,1
+626,F,White,Not Hispanic,Patricia,THOMPSON,0,12,China,0
+685,F,White,Not Hispanic,Patricia,WILLIAMS,1,12,Spain,1
+795,F,Two or more races,Hispanic,Mary,WILSON,0,12,US,0
+816,M,White,Not Hispanic,Jerry,DAVIS,0,12,Canada,0
+924,F,White,Hispanic,Linda,JACKSON,1,12,Malaysia,1
+934,M,White,Hispanic,Ronald,MOORE,0,12,China,0
+985,M,White,Not Hispanic,Carl,BROWN,1,12,China,1
+988,M,White,Not Hispanic,Steve,HERNANDEZ,0,12,South Korea,0
+1023,F,White,Not Hispanic,Sandra,MARTIN,1,12,Hong Kong,0
+1182,F,Black or African American,Not Hispanic,Carol,GARCIA,1,12,China,1
+1238,F,White,Not Hispanic,Nora,ANDERSON,0,12,China,0
+1327,M,White,Not Hispanic,Jared,DAVIS,1,12,Hong Kong,0
+1370,M,White,Not Hispanic,Bruce,MARTINEZ,1,12,Others,1
+1398,M,White,Not Hispanic,John,THOMAS,0,12,China,0
+1467,F,White,Not Hispanic,Angela,JONES,0,12,Italy,0
+1498,M,Black or African American,Not Hispanic,David,MARTINEZ,0,12,Cambodia,0
+1609,M,White,Not Hispanic,Joseph,JACKSON,1,12,China,0
+1628,M,White,Not Hispanic,Donald,MARTINEZ,1,12,France,0
+1745,M,White,Not Hispanic,Wayne,WILSON,0,12,China,0
+1757,F,White,Hispanic,Beatrice,JACKSON,1,12,Singapore,1
+20,F,White,Not Hispanic,Bette,LEE,0,11,China,0
+28,M,White,Hispanic,Douglas,HERNANDEZ,1,11,Sweden,0
+142,F,White,Not Hispanic,Elizabeth,MOORE,0,11,China,0
+369,F,White,Not Hispanic,Sharon,WHITE,1,11,China,1
+408,M,White,Not Hispanic,Clifford,TAYLOR,1,11,China,0
+604,F,Black or African American,Not Hispanic,Harriet,WILSON,1,11,Nepal,0
+684,F,White,Not Hispanic,Marie,WHITE,1,11,Russia,1
+956,F,White,Not Hispanic,Joan,LOPEZ,0,11,Singapore,0
+958,M,White,Not Hispanic,Charles,MARTIN,0,11,UK,0
+1108,M,White,Not Hispanic,Wayne,GARCIA,1,11,China,0
+1200,M,White,Hispanic,Steven,JACKSON,1,11,China,1
+1306,F,Black or African American,Not Hispanic,Pat,MILLER,1,11,China,0
+1342,M,White,Not Hispanic,Jimmie,WHITE,0,11,Japan,0
+1410,M,White,Not Hispanic,Nelson,MARTINEZ,0,11,China,0
+1463,F,White,Not Hispanic,Dianne,GARCIA,1,11,Canada,0
+1560,F,White,Not Hispanic,Emilie,ANDERSON,0,11,Japan,0
+1591,M,Black or African American,Hispanic,Wilbur,ANDERSON,1,11,China,1
+1604,F,White,Not Hispanic,Gina,LEE,1,11,China,0
+10,M,Asian,Not Hispanic,Earl,BAKER,0,10,France,0
+63,M,White,Not Hispanic,Gerald,MARTINEZ,1,10,US,1
+248,F,White,Hispanic,Francine,MARTIN,1,10,China,1
+263,M,White,Not Hispanic,Ronald,GARCIA,1,10,China,1
+270,M,White,Not Hispanic,Gary,WHITE,0,10,Hong Kong,0
+271,M,White,Not Hispanic,Melvin,TAYLOR,1,10,China,0
+281,M,White,Hispanic,Robert,WILSON,0,10,South Korea,0
+284,M,White,Not Hispanic,Otis,WHITE,1,10,France,0
+310,M,White,Not Hispanic,Ernest,MOORE,0,10,China,0
+323,M,White,Not Hispanic,Mike,DAVIS,0,10,US,0
+339,F,White,Not Hispanic,Pauline,WHITE,1,10,China,1
+371,F,Asian,Not Hispanic,Brenda,HARRIS,0,10,US,0
+404,M,White,Not Hispanic,Thomas,MOORE,1,10,China,0
+456,F,White,Not Hispanic,Tomi,MARTIN,0,10,China,0
+463,F,White,Not Hispanic,Linda,RODRIGUEZ,1,10,China,0
+519,F,White,Not Hispanic,Catherine,MARTIN,1,10,China,1
+536,F,White,Hispanic,Betty,HERNANDEZ,1,10,Thailand,1
+555,M,Asian,Not Hispanic,Lonnie,NELSON,0,10,Italy,0
+613,F,Black or African American,Not Hispanic,Marsha,MARTINEZ,0,10,Russia,0
+691,M,White,Not Hispanic,David,LOPEZ,1,10,Sweden,1
+732,M,White,Not Hispanic,Richard,LOPEZ,1,10,China,1
+831,M,White,Not Hispanic,Ennis,JONES,0,10,Australia,0
+833,F,White,Not Hispanic,Linda,WILSON,1,10,Macau,1
+889,F,White,Not Hispanic,Lynne,THOMPSON,1,10,Spain,1
+909,F,White,Hispanic,Barbara,HERNANDEZ,1,10,China,0
+960,F,White,Hispanic,Carol,ANDERSON,1,10,United Arab Emirates,0
+1000,F,White,Not Hispanic,Linda,JACKSON,0,10,China,0
+1106,M,White,Hispanic,Charles,THOMPSON,0,10,China,0
+1112,F,Black or African American,Not Hispanic,Unknown,BROWN,1,10,China,0
+1159,M,White,Not Hispanic,Luster,MARTIN,0,10,China,0
+1192,M,Asian,Not Hispanic,Darrel,ADAMS,1,10,China,1
+1218,F,Black or African American,Not Hispanic,Connie,GARCIA,1,10,Japan,1
+1257,M,White,Not Hispanic,Paul,ANDERSON,0,10,China,0
+1708,F,White,Not Hispanic,Veronica,THOMAS,1,10,Others,0
+29,M,White,Not Hispanic,George,MOORE,0,9,Sweden,0
+31,M,White,Not Hispanic,Vernon,GARCIA,1,9,Vietnam,1
+81,F,Black or African American,Not Hispanic,Kathleen,MILLER,1,9,US,0
+87,F,White,Not Hispanic,Sharon,MARTIN,0,9,US,0
+219,M,Asian,Not Hispanic,Gerald,HALL,1,9,China,0
+269,M,White,Not Hispanic,Richard,TAYLOR,1,9,China,1
+342,F,White,Not Hispanic,Carolyn,LEE,1,9,China,1
+402,F,White,Hispanic,Dorothy,RODRIGUEZ,1,9,China,1
+411,M,White,Not Hispanic,Leo,ANDERSON,1,9,China,0
+435,F,White,Not Hispanic,Linda,GARCIA,1,9,Canada,1
+459,M,Black or African American,Not Hispanic,Barry,MARTINEZ,1,9,China,0
+482,M,White,Not Hispanic,Charles,LEE,0,9,Singapore,0
+593,M,White,Not Hispanic,Walter,THOMAS,0,9,Finland,0
+606,F,White,Not Hispanic,Susanne,LOPEZ,1,9,Nepal,0
+607,F,White,Not Hispanic,Sandra,THOMAS,1,9,Thailand,1
+735,M,White,Hispanic,Alan,MARTINEZ,1,9,China,1
+829,M,White,Not Hispanic,Ricardo,BROWN,0,9,Australia,0
+841,M,Asian,Not Hispanic,Peter,GONZALEZ,0,9,Philippines,0
+898,M,White,Hispanic,Floyd,MARTIN,0,9,China,0
+947,F,White,Not Hispanic,Therese,JACKSON,1,9,China,0
+978,F,White,Not Hispanic,Helen,ANDERSON,0,9,Vietnam,0
+1095,M,White,Hispanic,Ralph,MILLER,0,9,China,0
+1109,M,White,Not Hispanic,Lawrence,HERNANDEZ,1,9,China,0
+1152,M,White,Not Hispanic,Roland,DAVIS,1,9,India,0
+1247,M,White,Not Hispanic,Charles,MARTINEZ,0,9,China,0
+1333,M,Asian,Not Hispanic,Robert,ROBINSON,0,9,China,0
+1338,F,White,Not Hispanic,Julieann,HERNANDEZ,1,9,China,1
+1433,F,White,Not Hispanic,Peggy,THOMAS,1,9,US,0
+1492,M,White,Not Hispanic,Royal,RODRIGUEZ,0,9,China,0
+1562,M,White,Not Hispanic,Paul,HERNANDEZ,1,9,China,0
+1608,F,Black or African American,Not Hispanic,Natalie,GARCIA,0,9,China,0
+1667,F,White,Not Hispanic,Nancy,THOMPSON,0,9,China,0
+1669,M,White,Hispanic,Jon,HERNANDEZ,0,9,China,0
+1671,M,White,Not Hispanic,Jess,MARTINEZ,0,9,Singapore,0
+1739,M,Black or African American,Not Hispanic,Anthony,GARCIA,0,9,China,0
+9,M,White,Not Hispanic,Ronnie,MILLER,0,8,China,0
+11,F,White,Hispanic,Loretta,HERNANDEZ,1,8,UK,1
+136,F,White,Not Hispanic,Kathryn,WHITE,1,8,China,1
+181,F,White,Not Hispanic,Karen,TAYLOR,0,8,China,0
+228,M,White,Not Hispanic,Chester,JACKSON,1,8,Taiwan,1
+229,F,White,Not Hispanic,Judith,LOPEZ,1,8,China,0
+231,F,White,Not Hispanic,Gail,LEE,0,8,Macau,0
+311,F,White,Not Hispanic,Rachel,ANDERSON,1,8,China,1
+349,F,Black or African American,Hispanic,Suzanne,SMITH,0,8,China,0
+388,F,White,Not Hispanic,Linda,THOMPSON,0,8,Germany,0
+640,F,Asian,Not Hispanic,Jill,HARRIS,0,8,China,0
+672,F,White,Not Hispanic,Michelle,MARTIN,0,8,Cambodia,0
+674,F,Black or African American,Not Hispanic,Martha,RODRIGUEZ,1,8,Australia,1
+723,F,White,Not Hispanic,Betty,THOMPSON,1,8,China,0
+930,M,White,Not Hispanic,Paul,WILLIAMS,0,8,China,0
+1110,M,White,Not Hispanic,Lawrence,TAYLOR,0,8,China,0
+1132,M,White,Not Hispanic,Robert,LOPEZ,0,8,China,0
+1146,F,White,Not Hispanic,Sandra,MOORE,0,8,Germany,0
+1172,F,White,Hispanic,Mary,TAYLOR,1,8,Canada,1
+1195,F,White,Hispanic,Linda,JACKSON,0,8,China,0
+1203,F,White,Not Hispanic,Carol,HERNANDEZ,0,8,China,0
+1215,F,White,Not Hispanic,Linda,DAVIS,1,8,Belgium,0
+1359,M,White,Not Hispanic,Kenton,DAVIS,0,8,China,0
+1371,M,White,Not Hispanic,Stanley,TAYLOR,1,8,Germany,0
+1372,F,White,Not Hispanic,Betty,LEE,0,8,Others,0
+1378,F,White,Not Hispanic,Sharon,THOMAS,1,8,UK,0
+1381,F,Black or African American,Not Hispanic,Kathleen,MARTINEZ,0,8,Hong Kong,0
+1444,F,Black or African American,Not Hispanic,Marcia,WILSON,1,8,US,1
+1449,F,White,Not Hispanic,Suzanne,MOORE,0,8,US,0
+1601,F,White,Not Hispanic,Lennis,MOORE,1,8,China,0
+1631,M,White,Not Hispanic,Larry,WILSON,1,8,China,0
+1644,F,White,Hispanic,Brenda,HERNANDEZ,0,8,China,0
+1649,F,Black or African American,Not Hispanic,Caroline,WILSON,1,8,China,1
+1659,M,White,Not Hispanic,Martin,BROWN,1,8,China,0
+1750,F,White,Not Hispanic,Dianne,MILLER,0,8,China,0
+212,F,Black or African American,Not Hispanic,Brenda,RODRIGUEZ,1,7,China,1
+265,F,Black or African American,Not Hispanic,Lynn,RODRIGUEZ,1,7,China,0
+297,F,Black or African American,Not Hispanic,Susan,DAVIS,1,7,China,1
+299,F,White,Hispanic,Dora,THOMAS,0,7,China,0
+334,F,White,Not Hispanic,Bettie,WHITE,0,7,Nepal,0
+350,M,White,Not Hispanic,John,LOPEZ,1,7,China,0
+360,M,White,Not Hispanic,Allan,LEE,1,7,China,1
+442,F,Black or African American,Not Hispanic,Barbara,JOHNSON,1,7,China,1
+494,F,White,Not Hispanic,Patricia,JONES,1,7,Germany,1
+531,F,White,Hispanic,Diana,JACKSON,1,7,US,1
+552,M,White,Not Hispanic,Nicholas,THOMAS,0,7,United Arab Emirates,0
+579,F,White,Not Hispanic,Mary,MARTIN,0,7,Finland,0
+639,M,White,Not Hispanic,Gregory,WILSON,1,7,China,1
+660,M,Asian,Hispanic,Cyril,HERNANDEZ,0,7,US,0
+661,M,White,Hispanic,Glynn,JACKSON,0,7,US,0
+677,M,White,Not Hispanic,Michael,WHITE,1,7,Germany,0
+775,F,White,Not Hispanic,Christine,HERNANDEZ,1,7,Australia,1
+800,M,White,Not Hispanic,Michael,WILLIAMS,1,7,US,1
+869,M,White,Not Hispanic,Marion,MILLER,1,7,US,0
+872,F,White,Not Hispanic,Melinda,MOORE,1,7,Taiwan,1
+933,M,White,Not Hispanic,William,THOMAS,0,7,China,0
+946,M,White,Not Hispanic,Robert,HERNANDEZ,1,7,China,1
+1097,F,White,Hispanic,Deborah,THOMPSON,0,7,China,0
+1230,M,Asian,Not Hispanic,Walt,ROBINSON,0,7,China,0
+1231,M,White,Not Hispanic,Robert,THOMAS,0,7,China,0
+1250,F,Black or African American,Not Hispanic,Diana,MILLER,1,7,China,0
+1298,F,White,Hispanic,Barbara,MARTIN,1,7,Australia,0
+1313,M,White,Not Hispanic,Darrel,LOPEZ,1,7,China,0
+1409,M,White,Not Hispanic,Gerald,DAVIS,0,7,China,0
+1464,M,White,Not Hispanic,Anthony,WHITE,0,7,Canada,0
+1508,F,White,Not Hispanic,Gail,THOMAS,0,7,Russia,0
+1577,F,White,Not Hispanic,Kathleen,WILSON,0,7,China,0
+1618,M,Black or African American,Not Hispanic,Ronald,WILSON,1,7,China,1
+1643,F,White,Hispanic,Joan,THOMAS,1,7,China,0
+1686,F,White,Hispanic,Jacqualyn,TAYLOR,0,7,Thailand,0
+1716,M,White,Not Hispanic,Jack,JACKSON,1,7,China,0
+70,F,White,Not Hispanic,Bobbie,WILLIAMS,1,6,US,1
+76,F,White,Not Hispanic,Joni,MARTIN,1,6,US,1
+134,M,White,Hispanic,Douglas,HERNANDEZ,1,6,China,0
+148,F,White,Not Hispanic,Judy,SMITH,0,6,China,0
+172,M,White,Not Hispanic,Edward,HERNANDEZ,1,6,Hong Kong,1
+203,M,White,Hispanic,Charles,HERNANDEZ,0,6,Mexico,0
+230,F,Asian,Not Hispanic,Cheryl,LOPEZ,0,6,Hong Kong,0
+436,F,White,Not Hispanic,Pamela,LOPEZ,1,6,Cambodia,0
+452,M,White,Not Hispanic,Billy,MARTINEZ,0,6,China,0
+645,F,White,Not Hispanic,Virginia,JONES,0,6,China,0
+669,F,White,Hispanic,Loretta,MARTINEZ,0,6,Malaysia,0
+706,M,White,Not Hispanic,Victor,GARCIA,0,6,US,0
+743,F,Black or African American,Not Hispanic,Charlene,BROWN,1,6,China,1
+830,F,White,Hispanic,Nancy,MARTINEZ,0,6,Australia,0
+848,F,White,Hispanic,Kathleen,HERNANDEZ,0,6,Italy,0
+878,F,Black or African American,Not Hispanic,Mary,ANDERSON,1,6,US,1
+971,M,White,Not Hispanic,Billie,HERNANDEZ,0,6,China,0
+1135,M,Black or African American,Not Hispanic,Harold,JONES,1,6,US,0
+1242,M,White,Hispanic,Ralph,MARTINEZ,0,6,China,0
+1443,M,White,Not Hispanic,Melvin,MARTINEZ,0,6,US,0
+1520,F,White,Hispanic,Martha,TAYLOR,1,6,US,1
+1524,F,Two or more races,Not Hispanic,Mary,WILSON,0,6,Vietnam,0
+1547,M,White,Not Hispanic,Dennis,JACKSON,0,6,US,0
+1557,M,White,Not Hispanic,Lester,BROWN,1,6,China,1
+1586,F,White,Not Hispanic,Beth,JONES,0,6,Egypt,0
+1598,F,White,Not Hispanic,Robin,MARTIN,0,6,China,0
+1622,M,White,Not Hispanic,Roger,WHITE,0,6,Others,0
+1668,M,White,Not Hispanic,Herman,MARTIN,1,6,China,1
+1675,M,White,Not Hispanic,Dave,MARTIN,0,6,Thailand,0
+1717,M,White,Not Hispanic,Marvin,MOORE,0,6,China,0
+66,F,White,Not Hispanic,Shirley,MILLER,1,5,US,1
+216,F,White,Not Hispanic,Tamara,TAYLOR,0,5,China,0
+340,F,White,Not Hispanic,Bambi,MOORE,0,5,China,0
+449,M,White,Not Hispanic,Alan,RODRIGUEZ,0,5,China,0
+479,F,White,Not Hispanic,Mary,MILLER,0,5,Japan,0
+558,M,Black or African American,Not Hispanic,Joel,RODRIGUEZ,0,5,United Arab Emirates,0
+644,F,White,Not Hispanic,Mary,MARTIN,1,5,China,0
+737,M,White,Not Hispanic,Carlton,LOPEZ,1,5,China,1
+792,F,White,Not Hispanic,Joyce,LOPEZ,0,5,China,0
+806,F,Black or African American,Not Hispanic,Geraldine,ANDERSON,0,5,India,0
+842,F,White,Not Hispanic,Linda,RODRIGUEZ,1,5,Philippines,1
+1029,F,Black or African American,Not Hispanic,Deanna,DAVIS,0,5,Russia,0
+1074,F,White,Hispanic,Connie,MARTIN,0,5,China,0
+1125,M,Black or African American,Not Hispanic,Michael,RODRIGUEZ,1,5,China,0
+1254,F,White,Not Hispanic,Norma,ANDERSON,1,5,China,0
+1296,F,White,Not Hispanic,Mia,HERNANDEZ,1,5,Japan,1
+1351,F,White,Hispanic,Sally,THOMAS,0,5,China,0
+1429,F,White,Not Hispanic,Frances,WILSON,1,5,US,0
+1453,F,White,Not Hispanic,Mary,HERNANDEZ,1,5,Canada,0
+1531,M,Black or African American,Not Hispanic,Samuel,MARTINEZ,1,5,Germany,0
+1537,F,White,Not Hispanic,Deborah,JACKSON,1,5,Australia,1
+1679,F,White,Not Hispanic,Karen,WILLIAMS,1,5,China,1
+1685,M,White,Not Hispanic,Larry,HERNANDEZ,1,5,Belgium,0
+58,F,White,Not Hispanic,Mary,GARCIA,0,4,Japan,0
+93,M,White,Not Hispanic,Anthony,JONES,0,4,US,0
+296,M,White,Not Hispanic,Dwain,WILSON,1,4,China,0
+424,F,White,Hispanic,Unknown,MARTINEZ,1,4,US,1
+469,F,Black or African American,Not Hispanic,Phyllis,JONES,0,4,China,0
+546,F,Asian,Not Hispanic,Vera,WILSON,0,4,Sri Lanka,0
+573,F,White,Not Hispanic,Carol,BROWN,1,4,Cambodia,0
+675,F,Black or African American,Not Hispanic,Dolores,MARTINEZ,0,4,Australia,0
+700,M,Black or African American,Not Hispanic,Marvin,BROWN,1,4,US,0
+746,F,White,Not Hispanic,Gloria,HERNANDEZ,1,4,China,1
+761,F,White,Not Hispanic,Mary,MARTINEZ,1,4,Macau,0
+819,F,White,Hispanic,Willie,JACKSON,0,4,Belgium,0
+931,F,White,Not Hispanic,Mary,MOORE,1,4,China,1
+966,F,White,Hispanic,Connie,THOMAS,1,4,US,1
+979,F,White,Hispanic,Sally,MOORE,1,4,Thailand,0
+1013,M,White,Not Hispanic,James,WILSON,1,4,China,0
+1017,M,White,Not Hispanic,Donald,JACKSON,1,4,China,1
+1032,M,White,Not Hispanic,Thomas,THOMPSON,1,4,France,1
+1038,M,White,Hispanic,Daniel,ANDERSON,0,4,Singapore,0
+1080,M,White,Not Hispanic,Harold,BROWN,1,4,China,0
+1081,M,White,Not Hispanic,Dick,THOMPSON,1,4,Thailand,1
+1107,F,White,Not Hispanic,Judy,DAVIS,1,4,China,1
+1111,F,Black or African American,Not Hispanic,Carol,GARCIA,1,4,China,1
+1281,F,White,Not Hispanic,Vicky,THOMPSON,1,4,China,1
+1302,F,White,Not Hispanic,Susan,JACKSON,0,4,China,0
+1383,F,White,Hispanic,Kathleen,THOMPSON,1,4,Taiwan,0
+1411,F,White,Not Hispanic,Carol,RODRIGUEZ,1,4,South Korea,0
+1768,F,White,Hispanic,Marianne,JACKSON,1,4,UK,0
+1778,F,White,Not Hispanic,Antoinette,WILLIAMS,0,4,China,0
+1780,F,White,Not Hispanic,Guadalupe,HERNANDEZ,1,4,China,0
+65,M,White,Not Hispanic,Duane,THOMPSON,1,3,US,0
+153,F,White,Not Hispanic,Betty,WHITE,0,3,US,0
+233,F,Black or African American,Not Hispanic,Joyce,GARCIA,1,3,China,0
+272,M,White,Hispanic,Jose,RODRIGUEZ,0,3,China,0
+357,F,Black or African American,Not Hispanic,Jean,RODRIGUEZ,1,3,China,0
+471,F,White,Hispanic,Carol,JACKSON,1,3,Taiwan,1
+534,F,White,Not Hispanic,Martha,MARTIN,0,3,US,0
+549,F,White,Not Hispanic,Joan,JONES,1,3,Australia,1
+631,M,White,Not Hispanic,James,JACKSON,1,3,China,0
+766,F,White,Not Hispanic,Sandra,GARCIA,0,3,United Arab Emirates,0
+820,F,White,Not Hispanic,Sybil,RODRIGUEZ,0,3,Belgium,0
+864,M,White,Not Hispanic,Donald,DAVIS,0,3,Germany,0
+1071,F,White,Not Hispanic,Linda,TAYLOR,1,3,China,0
+1153,F,White,Not Hispanic,Shelley,MILLER,0,3,Vietnam,0
+1187,M,White,Not Hispanic,Paul,LOPEZ,0,3,China,0
+1212,M,White,Not Hispanic,Rodney,WILSON,1,3,China,1
+1244,M,White,Not Hispanic,Harry,ANDERSON,0,3,Hong Kong,0
+1279,M,White,Not Hispanic,Loren,WILLIAMS,1,3,Singapore,0
+1343,M,White,Not Hispanic,Robert,MARTINEZ,1,3,Japan,1
+1347,F,White,Not Hispanic,Brenda,RODRIGUEZ,0,3,Canada,0
+1361,F,White,Not Hispanic,Julia,JACKSON,1,3,China,0
+1375,M,White,Not Hispanic,Donald,MARTINEZ,0,3,Philippines,0
+1456,M,White,Not Hispanic,Frank,JONES,1,3,Belgium,1
+1461,M,White,Hispanic,Benny,MARTINEZ,1,3,US,0
+1521,M,Black or African American,Hispanic,Clifton,TAYLOR,0,3,US,0
+1540,M,Asian,Not Hispanic,Artist,ROBINSON,1,3,Australia,1
+1546,F,White,Not Hispanic,Carmela,MARTIN,1,3,India,0
+1691,M,White,Hispanic,Howard,MARTIN,1,3,China,1
+1751,F,White,Not Hispanic,Dorothy,MILLER,1,3,China,1
+2,M,White,Not Hispanic,Daniel,TAYLOR,0,2,UK,0
+42,F,White,Not Hispanic,Audrey,LOPEZ,1,2,Australia,0
+107,M,White,Not Hispanic,John,JACKSON,1,2,US,1
+137,F,White,Not Hispanic,Carol,TAYLOR,1,2,China,1
+234,M,Native Hawaiian and Other Pacific Islander,Hispanic,James,JACKSON,1,2,China,1
+276,F,White,Not Hispanic,Annie,WHITE,1,2,China,1
+315,M,White,Not Hispanic,Teddy,MARTIN,0,2,Hong Kong,0
+321,M,White,Not Hispanic,Efrain,WILSON,0,2,Taiwan,0
+356,F,White,Not Hispanic,Sharon,MOORE,0,2,China,0
+366,F,White,Not Hispanic,Donna,HERNANDEZ,0,2,Macau,0
+438,F,White,Not Hispanic,Sandra,WILSON,0,2,Australia,0
+474,F,White,Hispanic,Paula,MARTINEZ,0,2,China,0
+513,M,White,Not Hispanic,Douglas,WHITE,0,2,China,0
+548,M,White,Not Hispanic,Richard,TAYLOR,0,2,Australia,0
+689,M,White,Hispanic,James,WILSON,0,2,China,0
+705,M,White,Hispanic,George,WILSON,1,2,US,0
+750,F,White,Hispanic,Doris,GARCIA,1,2,Philippines,0
+781,M,White,Not Hispanic,Leroy,HERNANDEZ,0,2,Australia,0
+782,F,White,Not Hispanic,Sarah,WILSON,0,2,Australia,0
+835,M,White,Not Hispanic,Mark,MOORE,0,2,Macau,0
+883,M,White,Not Hispanic,Paul,LOPEZ,0,2,Australia,0
+906,F,White,Not Hispanic,Jennifer,MARTIN,0,2,China,0
+926,F,White,Not Hispanic,Frances,THOMAS,1,2,South Korea,0
+1027,F,White,Hispanic,Sandra,ANDERSON,0,2,Nepal,0
+1078,M,White,Not Hispanic,Herbert,JOHNSON,1,2,Hong Kong,1
+1121,F,White,Hispanic,Daryl,JACKSON,1,2,US,1
+1151,M,White,Not Hispanic,Jimmy,JONES,1,2,Vietnam,0
+1190,F,White,Not Hispanic,Linda,JACKSON,0,2,China,0
+1329,M,White,Not Hispanic,James,LEE,1,2,Taiwan,0
+1344,F,Asian,Not Hispanic,Karen,LEE,0,2,China,0
+1385,F,Black or African American,Not Hispanic,Laverne,DAVIS,0,2,Vietnam,0
+1389,F,White,Not Hispanic,Juana,WILLIAMS,0,2,Thailand,0
+1407,M,Asian,Not Hispanic,Andy,KING,1,2,China,1
+1445,F,White,Not Hispanic,Virginia,MARTIN,0,2,US,0
+1516,F,White,Not Hispanic,Patricia,WHITE,0,2,Canada,0
+1614,M,White,Hispanic,William,MOORE,1,2,China,1
+1657,M,White,Not Hispanic,James,JONES,1,2,China,0
+1696,M,White,Not Hispanic,Tommy,TAYLOR,0,2,China,0
+1703,M,White,Not Hispanic,Steve,HERNANDEZ,0,2,China,0
+1723,M,White,Not Hispanic,Raymond,JOHNSON,0,2,Thailand,0
+1733,F,White,Hispanic,Diane,THOMAS,1,2,Belgium,1
+1744,F,Black or African American,Not Hispanic,Pamela,JONES,0,2,China,0
